@@ -12,5 +12,6 @@ The repository is organized as follows:
 2. **MSE_CAEX** folder contains CAEX Graphical Modeling Workbench and the Modeling Event Recorder (MER);
 3. **Trace Parser** folder contains the results of parsing the MER tracing files;
 4. **LLM Synthetic Dataset** folder contains the prompt schemas used and the results of the queries made to the considered LLMs;
-5. **Quality Checker** folder contains the Python code for extracting metrics of correctness, diversity, and hallucination, with corresponding Jamovi projects for statistical analyses in the results_RQ1 folder;
-6. **IMA** folder contains MORGAN, the recommender system used in this work, with two folders containing the results related to RQ2 and RQ3.
+5. **Trace Quality Checker** folder contains the Python code for extracting metrics of synthetic traces correctness, diversity, and hallucination, with corresponding Jamovi projects for statistical analyses in the results_RQ1.1 folder;
+6. **Model Quality Checker** folder contains the Python code for extracting metrics of synthetic models correctness, diversity, and hallucination, with corresponding Jamovi projects for statistical analyses in the results_RQ1.2 folder;
+7. **IMA** folder contains MORGAN, the recommender system used in this work, with two folders containing the results related to RQ2 and RQ3.
