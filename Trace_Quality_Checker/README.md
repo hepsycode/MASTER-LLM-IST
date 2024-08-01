@@ -24,7 +24,7 @@ Diversity measures the difference between a chunk of text and another in the gen
 <img src="formulas/LEV.png">
 </p>
 
-    - Longest Common Substrings (LCS): Given real trace [![\\ \tau_{j} \\ ](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Ctau_%7Bj%7D%20%5C%5C%20)](#_) and synthetic trace [![\\ \tau^+_{j} \\ ](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Ctau%5E%2B_%7Bj%7D%20%5C%5C%20)](#_), the maximum-length common events subsequence LCS(i,k) of [![\\ \tau_{j} \\ ](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Ctau_%7Bj%7D%20%5C%5C%20)](#_) and [![\\ \tau^+_{j} \\ ](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Ctau%5E%2B_%7Bj%7D%20%5C%5C%20)](#_), considering only characters insertion and deletion, where i and k represent the prefix length of trace string, is given by:
+    - Longest Common Substrings (LCS): Given real and synthetic traces, the maximum-length common events subsequence LCS(i,k), considering only characters insertion and deletion, where i and k represent the prefix length of trace string, is given by:
 
 <p align="center">
 <img src="formulas/LCS.png">
