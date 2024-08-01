@@ -6,7 +6,9 @@ To evaluate synthetic data generated through LLMs, we developed python code to c
 
 The Correctness metric measures whether the data instance is related to the given label. Existing approaches for measuring correctness can be divided into two categories: automatic evaluation and human evaluation. Human evaluation has been conducted by prompt engineers to self-tune the \textit{Few-shot In-Context Learning} component. Automatic evaluation has been implemented to check the correctness of event syntax using the following metric:
 
-[![\\ \begin{equation}\label{eq:eq1} \\ \footnotesize \\ \begin{aligned} \\     C(\tau^{+}_{j}) = \frac{\sum_{k=1}^{s} c(e^{+}_{j,k})}{|\tau^{+}_{j}|}, \ \text{where} \ c(e^{+}_{j,k}) = \begin{cases} \\           1 \ \text{if $e^{+}_{j,k}$ has correct syntax}  \\ \\           0 \ \text{otherwise} \\     \end{cases} \\ \end{aligned} \\ \normalsize \\ \end{equation}](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cbegin%7Bequation%7D%5Clabel%7Beq%3Aeq1%7D%20%5C%5C%20%5Cfootnotesize%20%5C%5C%20%5Cbegin%7Baligned%7D%20%5C%5C%20%20%20%20%20C(%5Ctau%5E%7B%2B%7D_%7Bj%7D)%20%3D%20%5Cfrac%7B%5Csum_%7Bk%3D1%7D%5E%7Bs%7D%20c(e%5E%7B%2B%7D_%7Bj%2Ck%7D)%7D%7B%7C%5Ctau%5E%7B%2B%7D_%7Bj%7D%7C%7D%2C%20%5C%20%5Ctext%7Bwhere%7D%20%5C%20c(e%5E%7B%2B%7D_%7Bj%2Ck%7D)%20%3D%20%5Cbegin%7Bcases%7D%20%5C%5C%20%20%20%20%20%20%20%20%20%20%201%20%5C%20%5Ctext%7Bif%20%24e%5E%7B%2B%7D_%7Bj%2Ck%7D%24%20has%20correct%20syntax%7D%20%20%5C%5C%20%5C%5C%20%20%20%20%20%20%20%20%20%20%200%20%5C%20%5Ctext%7Botherwise%7D%20%5C%5C%20%20%20%20%20%5Cend%7Bcases%7D%20%5C%5C%20%5Cend%7Baligned%7D%20%5C%5C%20%5Cnormalsize%20%5C%5C%20%5Cend%7Bequation%7D)](#_)
+<p align="center">
+<img src="formulas/Correct.png">
+</p>
 
 This metric can be evaluated on the full $\tau^{+}_{j}$ synthetic trace while it is possible to cluster the metrics w.r.t syntax features (i.e., MER metamodel classes).
 
@@ -18,11 +20,15 @@ Diversity measures the difference between a chunk of text and another in the gen
 1. Edit-based similarities, also known as distance-based, measure the minimum number of single-character operations (e.g., insertions, deletions, or substitutions) required to transform one string into another. 
     - Levenshtein: Given two traces, the Levenshtein distance between them is the minimum number of single-character edits (insertions, deletions, or substitutions) required to change one trace into the other. Starting from the Levenshtein distance, the Levenshtein similarity is defined as follows:
 
-      [![\\ \begin{equation}\label{eq:eq2} \\ \text{LEV}(\tau_{j},\tau^{+}_{j}) = 1.0 - \frac{dist(\tau_{j},\tau^{+}_{j})}{max(|\tau_{j}|,|\tau^{+}_{j}|)} \\ \end{equation} \\  \\ ](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cbegin%7Bequation%7D%5Clabel%7Beq%3Aeq2%7D%20%5C%5C%20%5Ctext%7BLEV%7D(%5Ctau_%7Bj%7D%2C%5Ctau%5E%7B%2B%7D_%7Bj%7D)%20%3D%201.0%20-%20%5Cfrac%7Bdist(%5Ctau_%7Bj%7D%2C%5Ctau%5E%7B%2B%7D_%7Bj%7D)%7D%7Bmax(%7C%5Ctau_%7Bj%7D%7C%2C%7C%5Ctau%5E%7B%2B%7D_%7Bj%7D%7C)%7D%20%5C%5C%20%5Cend%7Bequation%7D%20%5C%5C%20%20%5C%5C%20)](#_)
+<p align="center">
+<img src="formulas/LEV.png">
+</p>
 
     - Longest Common Substrings (LCS): Given real trace [![\\ \tau_{j} \\ ](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Ctau_%7Bj%7D%20%5C%5C%20)](#_) and synthetic trace [![\\ \tau^+_{j} \\ ](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Ctau%5E%2B_%7Bj%7D%20%5C%5C%20)](#_), the maximum-length common events subsequence LCS(i,k) of [![\\ \tau_{j} \\ ](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Ctau_%7Bj%7D%20%5C%5C%20)](#_) and [![\\ \tau^+_{j} \\ ](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Ctau%5E%2B_%7Bj%7D%20%5C%5C%20)](#_), considering only characters insertion and deletion, where i and k represent the prefix length of trace string, is given by:
 
-      [![\\ \begin{equation}\label{eq:eq3} \\             LCS(i,k) = \begin{cases} \\                 0 & \text{if} \ i = 0 \vee k = 0 \\ \\                 LCS(i-1,k-1) + 1 & \text{if} \ i, k > 0 \wedge \tau_{j}[i] = \tau^{+}_{j}[k] \\ \\                 0 & \text{if} \  i, k > 0 \wedge \tau_{j}[i] \neq \tau^{+}_{j}[k] \\             \end{cases}  \\ \end{equation} \\  \\  \\ ](https://latex.codecogs.com/svg.latex?%5C%5C%20%5Cbegin%7Bequation%7D%5Clabel%7Beq%3Aeq3%7D%20%5C%5C%20%20%20%20%20%20%20%20%20%20%20%20%20LCS(i%2Ck)%20%3D%20%5Cbegin%7Bcases%7D%20%5C%5C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200%20%26%20%5Ctext%7Bif%7D%20%5C%20i%20%3D%200%20%5Cvee%20k%20%3D%200%20%5C%5C%20%5C%5C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20LCS(i-1%2Ck-1)%20%2B%201%20%26%20%5Ctext%7Bif%7D%20%5C%20i%2C%20k%20%3E%200%20%5Cwedge%20%5Ctau_%7Bj%7D%5Bi%5D%20%3D%20%5Ctau%5E%7B%2B%7D_%7Bj%7D%5Bk%5D%20%5C%5C%20%5C%5C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200%20%26%20%5Ctext%7Bif%7D%20%5C%20%20i%2C%20k%20%3E%200%20%5Cwedge%20%5Ctau_%7Bj%7D%5Bi%5D%20%5Cneq%20%5Ctau%5E%7B%2B%7D_%7Bj%7D%5Bk%5D%20%5C%5C%20%20%20%20%20%20%20%20%20%20%20%20%20%5Cend%7Bcases%7D%20%20%5C%5C%20%5Cend%7Bequation%7D%20%5C%5C%20%20%5C%5C%20%20%5C%5C%20)](#_)
+<p align="center">
+<img src="formulas/LCS.png">
+</p>
 
     - Jaro–Winkler: The Jaro Similarity is calculated using the following formula:
 <p align="center">
