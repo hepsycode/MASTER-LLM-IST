@@ -1,0 +1,26 @@
+event InstanceHierarchy ADD
+event InternalElement ADD
+event InternalElement name SET
+event InternalElement refBaseClassPath SET
+event InternalElement baseSystemUnit SET
+event SupportedRoleClass ADD
+event RoleClass role SET
+event SupportedRoleClass role SET
+event SupportedRoleClass role SET
+event SupportedRoleClass role SET
+event SupportedRoleClass role SET
+event ExternalInterface ADD
+event ExternalInterface baseClass SET
+event ExternalInterface ADD
+event ExternalInterface baseClass SET
+event InternalLink ADD
+event InternalLink partnerSideA SET
+event InternalLink partnerSideB SET
+event SystemUnitClassLib ADD
+event SystemUnitClass name SET
+event RoleClassLib ADD
+event RoleClass name SET
+event RoleClass name SET
+event InterfaceClassLib ADD
+event InterfaceClass name SET
+event InterfaceClass name SET
