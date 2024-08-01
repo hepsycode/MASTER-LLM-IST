@@ -19,17 +19,13 @@ Diversity measures the difference between a chunk of text and another in the gen
 
 1. Edit-based similarities, also known as distance-based, measure the minimum number of single-character operations (e.g., insertions, deletions, or substitutions) required to transform one string into another. 
     - Levenshtein: Given two traces, the Levenshtein distance between them is the minimum number of single-character edits (insertions, deletions, or substitutions) required to change one trace into the other. Starting from the Levenshtein distance, the Levenshtein similarity is defined as follows:
-
 <p align="center">
 <img src="formulas/LEV.png">
 </p>
-
     - Longest Common Substrings (LCS): Given real and synthetic traces, the maximum-length common events subsequence LCS(i,k), considering only characters insertion and deletion, where i and k represent the prefix length of trace string, is given by:
-
 <p align="center">
 <img src="formulas/LCS.png">
 </p>
-
     - Jaro–Winkler: The Jaro Similarity is calculated using the following formula:
 <p align="center">
 <img src="formulas/jaro.png">
