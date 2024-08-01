@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <caex:InstanceHierarchy name="System">
+    <caex:InternalElement name="Vehicle">
+      <caex:SupportedRoleClass role="Source">
+        <caex:roleClass role="Provider"/>
+      </caex:SupportedRoleClass>
+      <caex:InternalLink name="Link_Vehicle_SensorData_1">
+        <caex:partnerSideA refPartnerSideA="//@Vehicle.SensorData_1"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_1.SensorDataInput"/>
+      </caex:InternalLink>
+    </caex:InternalElement>
+    <caex:InternalElement name="Engine">
+      <caex:SupportedRoleClass role="Source">
+        <caex:roleClass role="Provider"/>
+      </caex:SupportedRoleClass>
+      <caex:SupportedRoleClass role="Sink">
+        <caex:roleClass role="Consumer"/>
+      </caex:SupportedRoleClass>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EngineData_1">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.X"/>
+      </caex:ExternalInterface>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="SensorConfig_1">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.Y"/>
+      </caex:ExternalInterface>
+      <caex:InternalLink name="Link_Engine_SensorConfig_1">
+        <caex:partnerSideA refPartnerSideA="//@Engine.SensorConfig_1"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_1.SensorConfigInput"/>
+      </caex:InternalLink>
+      <caex:InternalLink name="Link_Engine_EngineData_1">
+        <caex:partnerSideA refPartnerSideA="//@Engine.EngineData_1"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_2.EngineDataInput"/>
+      </caex:InternalLink>
+    </caex:InternalElement>
+    <caex:InternalElement name="Sensor1">
+      <caex:SupportedRoleClass role="Source">
+        <caex:roleClass role="Provider"/>
+      </caex:SupportedRoleClass>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="SensorData_1">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.Z"/>
+      </caex:ExternalInterface>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="SensorConfig_1">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.W"/>
+      </caex:ExternalInterface>
+      <caex:InternalLink name="Link_Sensor1_SensorData_1">
+        <caex:partnerSideA refPartnerSideA="//@Sensor1.SensorData_1"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_1.SensorDataInput"/>
+      </caex:InternalLink>
+    </caex:InternalElement>
+    <caex:InternalElement name="Temperature">
+      <caex:SupportedRoleClass role="Source">
+        <caex:roleClass role="Provider"/>
+      </caex:SupportedRoleClass>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="SensorData_2">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.U"/>
+      </caex:ExternalInterface>
+  <caex:InternalLink name="Link_Temperature_SensorData_2">
+    <caex:partnerSideA refPartnerSideA="//@Temperature.SensorData_2"/>
+    <caex:partnerSideB refPartnerSideB="ExternalComponent_5.SensorDataInput"/>
+  </caex:InternalLink>
+  <caex:InternalElement name="Controller">
+    <caex:SupportedRoleClass role="Sink">
+      <caex:roleClass role="Consumer"/>
+    </caex:SupportedRoleClass>
+    <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="ControlSignal_1">
+      <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.V"/>
+    </caex:ExternalInterface>
+    <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="ControlConfig_1">
+      <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.Q"/>
+    </caex:ExternalInterface>
+    </caex:InternalElement>
+  <caex:InternalElement name="Powertrain">
+    <caex:SupportedRoleClass role="Sink">
+      <caex:roleClass role="Consumer"/>
+    </caex:SupportedRoleClass>
+    <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="PowertrainData_1">
+      <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.P"/>
+    </caex:ExternalInterface>
+    </caex:InternalElement>
+  <caex:InternalElement name="DiagnosticModule">
+    <caex:SupportedRoleClass role="Source">
+      <caex:roleClass role="Provider"/>
+    </caex:SupportedRoleClass>
+    <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="DiagnosticData_1">
+      <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.AA"/>
+    </caex:ExternalInterface>
+    <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="DiagnosticConfig_1">
+      <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.BB"/>
+    </caex:ExternalInterface>
+    <caex:InternalLink name="Link_DiagnosticModule_DiagnosticData_1">
+      <caex:partnerSideA refPartnerSideA="//@DiagnosticModule.DiagnosticData_1"/>
+      <caex:partnerSideB refPartnerSideB="ExternalComponent_6.DiagnosticDataInput"/>
+    </caex:InternalLink>
+    <caex:InternalLink name="Link_DiagnosticModule_DiagnosticConfig_1">
+      <caex:partnerSideA refPartnerSideA="//@DiagnosticModule.DiagnosticConfig_1"/>
+      <caex:partnerSideB refPartnerSideB="ExternalComponent_6.DiagnosticConfigInput"/>
+    </caex:InternalLink>
+  </caex:InternalElement>
+</caex:InstanceHierarchy>
+</caex:CAEXFile>
+

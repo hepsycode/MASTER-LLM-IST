@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <caex:InstanceHierarchy name="System">
+    <caex:InternalElement name="Sensor">
+      <caex:InternalElement name="SubSystem1">
+        <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_1">
+          <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>
+        </caex:ExternalInterface>
+        <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_2">
+          <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>
+        </caex:ExternalInterface>
+        <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_3">
+          <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>
+        </caex:ExternalInterface>
+        <caex:InternalLink name="Link_1">
+          <caex:partnerSideA refPartnerSideA="//@SubSystem1.externalInterface.0"/>
+          <caex:partnerSideB refPartnerSideB="ExternalComponent_1.externalInterface.0"/>
+        </caex:InternalLink>
+        <caex:InternalLink name="Link_2">
+          <caex:partnerSideA refPartnerSideA="//@SubSystem1.externalInterface.1"/>
+          <caex:partnerSideB refPartnerSideB="ExternalComponent_2.externalInterface.0"/>
+        </caex:InternalLink>
+      </caex:InternalElement>
+      <caex:SupportedRoleClass role="Source"/>
+      <caex:Attribute name="Type" value="Temperature"/>
+      <caex:Attribute name="Location" value="Engine"/>
+      <caex:Attribute name="Description" value="Engine temperature sensor"/>
+    </caex:InternalElement>
+  </caex:InstanceHierarchy>
+  <caex:InterfaceClassLib name="SyntheticInterfaceClassLib">
+    <caex:InterfaceClass name="GenericInterfaceClass"/>  </caex:InterfaceClassLib>
+</caex:CAEXFile>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <caex:InstanceHierarchy name="System">
+    <caex:InternalElement name="MaybeSystem">
+      <caex:SupportedRoleClass role="Source">
+        <caex:roleClass role="Provider"/>
+        <caex:roleClass role="Manufacturer"/>
+      </caex:SupportedRoleClass>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_1">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>
+      </caex:ExternalInterface>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_2">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.1"/>
+      </caex:ExternalInterface>
+      <caex:InternalLink name="Link_1">
+        <caex:partnerSideA refPartnerSideA="//@MaybeSystem.externalInterface.0"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_1.externalInterface.0"/>
+      </caex:InternalLink>
+    </caex:InternalElement>
+    <caex:InternalElement name="SubSystem1">
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_3">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.2"/>
+      </caex:ExternalInterface>
+      <caex:InternalLink name="Link_SubSystem1_ExternalComponent_2">
+        <caex:partnerSideA refPartnerSideA="//@SubSystem1.externalInterface.0"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_2.externalInterface.0"/>
+      </caex:InternalLink>
+    </caex:InternalElement>
+    <caex:InternalElement name="SubSystem2">
+      <caex:SupportedRoleClass role="Sink">
+        <caex:roleClass role="Consumer"/>
+      </caex:SupportedRoleClass>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_4">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.3"/>
+      </caex:ExternalInterface>
+      <caex:InternalLink name="Link_SubSystem2_ExternalComponent_3">
+        <caex:partnerSideA refPartnerSideA="//@SubSystem2.externalInterface.0"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_3.externalInterface.0"/>
+      </caex:InternalLink>
+    </caex:InternalElement>
+    <caex:InternalElement name="Sensor1">
+      <caex:SupportedRoleClass role="Source">
+        <caex:roleClass role="Provider"/>
+      </caex:SupportedRoleClass>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_5">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.4"/>
+      </caex:ExternalInterface>
+      <caex:InternalLink name="Link_Sensor1_ExternalComponent_4">
+        <caex:partnerSideA refPartnerSideA="//@Sensor1.externalInterface.0"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_4.externalInterface.0"/>
+      </caex:InternalLink>
+    </caex:InternalElement>
+ <caex:InternalElement name="Sensor2">
+  <caex:SupportedRoleClass role="Sink">
+    <caex:roleClass role="Consumer"/>
+  </caex:SupportedRoleClass>
+  <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_6">
+    <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.5"/>
+  </caex:ExternalInterface>
+</caex:InternalElement>
+</caex:CAEXFile>
+

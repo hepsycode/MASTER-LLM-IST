@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300">
+  <instanceHierarchy>
+    <internalElement name="A">
+      <internalElement name="A1">
+        <externalInterface xsi:type="caex:ExternalInterface"/>
+        <internalLink partnerSideA="//@instanceHierarchy.0/@internalElement.0/@internalElement.0/@externalInterface.0" partnerSideB="//@instanceHierarchy.0/@internalElement.0/@internalElement.1/@externalInterface.0"/>
+      </internalElement>
+      <internalElement name="A2">
+        <externalInterface xsi:type="caex:ExternalInterface"/>
+      </internalElement>
+    </internalElement>
+    <internalElement name="B"/>
+  </instanceHierarchy>
+</caex:CAEXFile>

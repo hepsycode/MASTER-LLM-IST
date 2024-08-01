@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:caex="http://www.dke.de/CAEX/300">
+  <instanceHierarchy name="SharingMatrix">
+    <internalElement name="Pull Unit">
+      <internalElement name="Dropbox Module"/>
+      <internalElement name="Axle Module 1st"/>
+      <internalElement name="Front Fender Right"/>
+      <internalElement name="Aftertreatment Module"/>
+      <internalElement name="Charge Air Cooler Module"/>
+      <internalElement name="Front Bow Module"/>
+      <internalElement name="Rear Bow Module"/>
+      <internalElement name="Front Fender Left"/>
+      <internalElement name="Engine And Transmission"/>
+      <internalElement name="Water Cooler Module"/>
+      <internalElement name="Hood Module"/>
+      <internalElement name="Working Hydraulic Module"/>
+      <internalElement name="Wheel 1st"/>
+      <internalElement name="Hitch Module"/>
+      <internalElement name="Heat Exchanger Module"/>
+    </internalElement>
+    <internalElement name="Dumper Body Unit"/>
+    <internalElement name="Load Unit">
+      <internalElement name="Axle Module 3rd"/>
+      <internalElement name="Axle Module 2nd"/>
+      <internalElement name="Wheel 3rd"/>
+      <internalElement name="Wheel 2nd"/>
+    </internalElement>
+  </instanceHierarchy>
+</caex:CAEXFile>

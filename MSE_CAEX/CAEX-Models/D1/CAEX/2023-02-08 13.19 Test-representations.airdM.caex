@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <instanceHierarchy name="SyntheticInstanceHierarchy">
+    <internalElement name="Sensor">  <externalInterface xsi:type="caex:ExternalInterface" name="EI_1">
+        <baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>
+      </externalInterface>
+      <externalInterface xsi:type="caex:ExternalInterface" name="EI_2">
+        <baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>
+      </externalInterface>
+      <externalInterface xsi:type="caex:ExternalInterface" name="EI_3">
+        <baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>
+      </externalInterface>
+      <externalInterface xsi:type="caex:ExternalInterface" name="EI_4">
+        <baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>
+      </externalInterface>
+      <internalLink name="Link_1">
+        <partnerSideA refPartnerSideA="//@Sensor.externalInterface.0"/>
+        <partnerSideB refPartnerSideB="ExternalComponent.externalInterface.1"/>  </internalLink>
+      <internalLink name="Link_2">
+        <partnerSideA refPartnerSideA="//@Sensor.externalInterface.2"/>
+        <partnerSideB refPartnerSideB="PowerUnit.externalInterface.0"/>  </internalLink>
+      <attribute name="measurementRange">
+        <attributeDataType>String</attributeDataType>
+        <value>100</value>
+        <unit>m</unit>
+      </attribute>
+    </internalElement>
+  </instanceHierarchy>
+  <interfaceClassLib name="SyntheticInterfaceClassLib">
+    <interfaceClass name="Mechanical"/>  </interfaceClassLib>
+</caex:CAEXFile>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <caex:InstanceHierarchy name="System">
+
+    <caex:InternalElement name="New_Element_1">
+      <caex:SupportedRoleClass role="Source">
+        <caex:roleClass role="Provider"/>
+      </caex:SupportedRoleClass>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="ExternalInterface_1">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.AA"/>
+      </caex:ExternalInterface>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="ExternalInterface_2">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.BB"/>
+      </caex:ExternalInterface>
+      <caex:InternalLink name="Link_1">
+        <caex:partnerSideA refPartnerSideA="//@New_Element_1.ExternalInterface_1"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_X.Input_1"/>
+      </caex:InternalLink>
+      <caex:InternalLink name="Link_2">
+        <caex:partnerSideA refPartnerSideA="//@New_Element_1.ExternalInterface_2"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_Y.Input_2"/>
+      </caex:InternalLink>
+    </caex:InternalElement>
+
+    <caex:InternalElement name="Sensor_2">
+      <caex:SupportedRoleClass role="Source">
+        <caex:roleClass role="Provider"/>
+      </caex:SupportedRoleClass>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="SensorData_2">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.Z"/>
+      </caex:ExternalInterface>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="SensorConfig_2">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.W"/>
+      </caex:ExternalInterface>
+      <caex:InternalLink name="Link_Sensor_2_SensorData_2">
+        <caex:partnerSideA refPartnerSideA="//@Sensor_2.SensorData_2"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_1.SensorDataInput"/>
+      </caex:InternalLink>
+    </caex:InternalElement>
+
+    </caex:InstanceHierarchy>
+</caex:CAEXFile>

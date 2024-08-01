@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <instanceHierarchy name="TopLevelElement">
+    <internalElement name="Element">
+      <externalInterface xsi:type="caex:ExternalInterface" name="EI_1">
+        <baseClass href="//@interfaceClassLib.0/@interfaceClass.1"/>
+      </externalInterface>
+      <externalInterface xsi:type="caex:ExternalInterface" name="EI_2">
+        <baseClass href="//@interfaceClassLib.0/@interfaceClass.2"/>
+      </externalInterface>
+      <internalLink name="Link_1">
+        <partnerSideA refPartnerSideA="//@Element.externalInterface.0"/>
+        <partnerSideB refPartnerSideB="ExternalComponent_1.externalInterface.0"/>
+      </internalLink>
+      <internalElement name="NestedElement1">
+        <externalInterface xsi:type="caex:ExternalInterface" name="EI_3">
+          <baseClass href="//@interfaceClassLib.0/@interfaceClass.1"/>
+        </externalInterface>
+        <externalInterface xsi:type="caex:ExternalInterface" name="EI_4">
+          <baseClass href="//@interfaceClassLib.0/@interfaceClass.2"/>
+        </externalInterface>
+        <internalLink name="Link_2">
+          <partnerSideA refPartnerSideA="//@NestedElement1.externalInterface.0"/>
+          <partnerSideB refPartnerSideB="ExternalComponent_2.externalInterface.0"/>
+        </internalLink>
+        <internalElement name="NestedElement2">
+          </internalElement>
+      </internalElement>
+    </internalElement>
+  </instanceHierarchy>
+  <interfaceClassLib name="SyntheticInterfaceClassLib">
+    <interfaceClass name="InterfaceClass1"/>
+    <interfaceClass name="InterfaceClass2"/>
+  </interfaceClassLib>
+</caex:CAEXFile>

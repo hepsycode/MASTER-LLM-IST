@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <instanceHierarchy name="SensorInstance">
+    <internalElement name="Sensor" supportedRoleClass="Source">
+      <supportedRoleClass role="Manufacturer"/>  <externalInterface xsi:type="caex:ExternalInterface" name="EI_1">
+        <baseClass href="//@interfaceClassLib.0/@interfaceClass.1"/>
+      </externalInterface>
+      <externalInterface xsi:type="caex:ExternalInterface" name="EI_2">
+        <baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>  </externalInterface>
+      <internalLink name="Link_1">
+        <partnerSideA refPartnerSideA="//@Sensor.externalInterface.0"/>
+        <partnerSideB refPartnerSideB="ExternalComponent.externalInterface.0"/>
+      </internalLink>
+      <internalElement name="InternalElement1" supportedRoleClass="Sink">
+        <supportedRoleClass role="Consumer"/>  <supportedRoleClass role="Manufacturer"/>  </internalElement>
+    </internalElement>
+  </instanceHierarchy>
+  <interfaceClassLib name="SyntheticInterfaceClassLib">
+    <interfaceClass name="SensorClass1"/>  </interfaceClassLib>
+</caex:CAEXFile>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <instanceHierarchy name="SensorInstance">
+    <internalElement name="Sensor" version="1.0">
+      <externalInterface xsi:type="caex:ExternalInterface" name="EI_1">
+        <refBaseClassPath href="//@interfaceClassLib.0/@interfaceClass.1"/>
+      </externalInterface>
+      <externalInterface xsi:type="caex:ExternalInterface" name="EI_2" version="2.0">
+        <baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>  </externalInterface>
+      <externalInterface xsi:type="caex:ExternalInterface" name="EI_3" version="1.5">
+        <baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>  </externalInterface>
+      <internalLink name="Link_1">
+        <partnerSideA refPartnerSideA="//@Sensor.externalInterface.0"/>
+        <partnerSideB refPartnerSideB="ExternalComponent.externalInterface.0"/>
+      </internalLink>
+      <internalLink name="Link_2">
+        <partnerSideA refPartnerSideA="//@Sensor.externalInterface.1"/>
+        <partnerSideB refPartnerSideB="ExternalComponent_2.externalInterface.0"/>
+      </internalLink>
+      <internalElement name="InternalElement1">
+        </internalElement>
+      <internalElement name="InternalElement2">
+        </internalElement>
+    </internalElement>
+  </instanceHierarchy>
+  <interfaceClassLib name="SyntheticInterfaceClassLib">
+    <interfaceClass name="SensorClass1"/>
+  </interfaceClassLib>
+</caex:CAEXFile>

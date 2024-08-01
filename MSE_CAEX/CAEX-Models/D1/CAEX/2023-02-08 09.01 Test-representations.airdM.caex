@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <caex:InstanceHierarchy name="DeviceInstance">
+    <caex:InternalElement name="Device" refBaseClassPath="//@systemUnitClassLib.0/@systemUnitClass.1" baseSystemUnit="Meter">
+      <caex:SupportedRoleClass role="Source">
+        <caex:roleClass role="Manufacturer"/>
+      </caex:SupportedRoleClass>
+      <caex:SupportedRoleClass role="Source" refRoleClassPath="//@roleClassLib.0/@roleClass.2"/>
+      <caex:SupportedRoleClass role="Consumer"/>
+      <caex:SupportedRoleClass role="Manufacturer"/>
+      <caex:SupportedRoleClass role="Controller"/>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_1">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.1"/>
+      </caex:ExternalInterface>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_2">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.2"/>
+      </caex:ExternalInterface>
+      <caex:InternalLink name="Link_1">
+        <caex:partnerSideA refPartnerSideA="//@Device.externalInterface.0"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent.externalInterface.0"/>
+      </caex:InternalLink>
+    </caex:InternalElement>
+  </caex:InstanceHierarchy>
+  <caex:SystemUnitClassLib name="SyntheticSystemUnitClassLib">
+    <caex:SystemUnitClass name="MeterUnit"/>
+  </caex:SystemUnitClassLib>
+  <caex:RoleClassLib name="SyntheticRoleClassLib">
+    <caex:RoleClass name="ManufacturerRole"/>
+    <caex:RoleClass name="AdditionalRole"/>
+  </caex:RoleClassLib>
+  <caex:InterfaceClassLib name="SyntheticInterfaceClassLib">
+    <caex:InterfaceClass name="InterfaceClass1"/>
+    <caex:InterfaceClass name="InterfaceClass2"/>
+  </caex:InterfaceClassLib>
+</caex:CAEXFile>

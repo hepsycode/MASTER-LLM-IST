@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <caex:InstanceHierarchy name="Device">
+    <caex:InternalElement name="Device1" id="12345">
+      <caex:baseSystemUnit value="Meter"/>
+      <caex:baseSystemUnit value="Celsius"/>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_1">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.1"/>
+      </caex:ExternalInterface>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_Sensor1">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.2"/>
+      </caex:ExternalInterface>
+      <caex:InternalLink name="Link_1">
+        <caex:partnerSideA refPartnerSideA="//@Device1.externalInterface.0"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_1.externalInterface.0"/>
+      </caex:InternalLink>
+      <caex:InternalElement name="Sensor1">
+        <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_Sensor2">
+          <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.3"/>
+        </caex:ExternalInterface>
+        <caex:InternalLink name="Link_Sensor1">
+          <caex:partnerSideA refPartnerSideA="//@Sensor1.externalInterface.0"/>
+          <caex:partnerSideB refPartnerSideB="ExternalComponent_2.externalInterface.0"/>
+        </caex:InternalLink>
+      </caex:InternalElement>
+      <caex:InternalElement name="Controller">
+        <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_Controller">
+          <caex:baseClass href="//NOT_CONNECTED"/>  </caex:ExternalInterface>
+        <caex:InternalLink name="Link_Controller">
+          <caex:partnerSideA refPartnerSideA="//@Controller.externalInterface.0"/>
+          <caex:partnerSideB refPartnerSideB="ExternalComponent_3.externalInterface.0"/>
+        </caex:InternalLink>
+      </caex:InternalElement>
+    </caex:InternalElement>
+  </caex:InstanceHierarchy>
+  <caex:InterfaceClassLib name="SyntheticInterfaceClassLib">
+    <caex:InterfaceClass name="InterfaceClass1"/>
+    <caex:InterfaceClass name="InterfaceClass2"/>
+    <caex:InterfaceClass name="InterfaceClass3"/>
+  </caex:InterfaceClassLib>
+</caex:CAEXFile>

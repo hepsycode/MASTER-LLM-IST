@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This file has been generated with the OpenXES library. It conforms -->
+<!-- to the XML serialization of the XES standard for log storage and -->
+<!-- management. -->
+<!-- XES standard version: 2.0 -->
+<!-- OpenXES library version: 2.27 -->
+<!-- OpenXES is available from http://www.openxes.org/ -->
+<log xes.version="2.0" xes.features="-" openxes.version="2.27">
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<trace>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InstanceHierarchy:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InstanceHierarchy"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InstanceHierarchy"/>
+			<date key="time:timestamp" value="2024-07-13T16:45:06.319+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InstanceHierarchy:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InstanceHierarchy"/>
+			<string key="eventType" value="REMOVE"/>
+			<string key="id" value="//@instanceHierarchy.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InstanceHierarchy"/>
+			<date key="time:timestamp" value="2024-07-13T16:45:06.319+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InstanceHierarchy:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InstanceHierarchy"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InstanceHierarchy"/>
+			<date key="time:timestamp" value="2024-07-13T16:45:06.319+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:45:20.753+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:45:20.753+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InstanceHierarchy:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InstanceHierarchy"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InstanceHierarchy"/>
+			<date key="time:timestamp" value="2024-07-13T16:45:06.319+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.1"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.1"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:46:00.678+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InstanceHierarchy:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InstanceHierarchy"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InstanceHierarchy"/>
+			<date key="time:timestamp" value="2024-07-13T16:45:06.319+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.2"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:46:19.415+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:33.687+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.1"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.1"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:55.391+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.2"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.2"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:48:28.585+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.3"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.3"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:48:58.439+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.4"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.4"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:49:33.555+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.5"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.5"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:50:04.197+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.6"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.6"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:50:27.246+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.6"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.6"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:50:27.246+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.7"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.7"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:51:10.233+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.8"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.8"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:51:53.619+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.9"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.9"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:52:19.660+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.10"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.10"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:52:44.013+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.11"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.11"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:53:17.690+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.12"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.12"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:53:41.767+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.13"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.13"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:53:57.274+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:47:10.376+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.14"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.14"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:54:11.687+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.14"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="REMOVE"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.14"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:54:11.687+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.14"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.0/@internalElement.14"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:54:31.572+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.2"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:56:02.031+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.2/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:56:17.473+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.2"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:56:02.031+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.1"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.2/@internalElement.1"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:56:44.851+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.0"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.2/@internalElement.0"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:56:17.473+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.2"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:56:02.031+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.2"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.2/@internalElement.2"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:57:19.560+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:internalElement"/>
+			<string key="featureName" value="internalElement"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="ADD"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.2"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:56:02.031+02:00"/>
+		</event>
+		<event>
+			<string key="proxy" value="platform:/resource/Dumper/ByModelers/SharingMatrix/SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.3"/>
+			<boolean key="set" value="false"/>
+			<string key="concept:name" value="InternalElement:name"/>
+			<string key="featureName" value="name"/>
+			<string key="resource" value="caex"/>
+			<string key="javaClass" value="caex.caex30.caex.InternalElement"/>
+			<string key="eventType" value="SET"/>
+			<string key="id" value="//@instanceHierarchy.0/@internalElement.2/@internalElement.3"/>
+			<string key="type" value="featureChange"/>
+			<string key="class" value="InternalElement"/>
+			<date key="time:timestamp" value="2024-07-13T16:57:28.704+02:00"/>
+		</event>
+	</trace>
+</log>

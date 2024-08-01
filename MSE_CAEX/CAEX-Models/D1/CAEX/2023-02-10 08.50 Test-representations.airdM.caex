@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <caex:InstanceHierarchy name="TopLevelElement">
+    <caex:InternalElement name="NestedElement1" id="12345">
+      <caex:SupportedRoleClass role="Source">
+        <caex:roleClass role="Manufacturer"/>
+      </caex:SupportedRoleClass>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_1">
+        <caex:refBaseClassPath href="//@interfaceClassLib.0/@interfaceClass.0"/>
+      </caex:ExternalInterface>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_2">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.1"/>
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.2"/>
+      </caex:ExternalInterface>
+      <caex:InternalLink name="Link_1">
+        <caex:partnerSideA refPartnerSideA="//@NestedElement1.externalInterface.0"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_1.externalInterface.0"/>
+      </caex:InternalLink>
+      <caex:InternalLink name="Link_2">
+        <caex:partnerSideA refPartnerSideA="//@NestedElement1.externalInterface.1"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_2.externalInterface.0"/>
+      </caex:InternalLink>
+      <caex:SupportedRoleClass role="Sink">
+        <caex:roleClass role="Consumer"/>
+      </caex:SupportedRoleClass>
+    </caex:InternalElement>
+  </caex:InstanceHierarchy>
+  <caex:InterfaceClassLib name="SyntheticInterfaceClassLib">
+    <caex:InterfaceClass name="GenericInterfaceClass"/>
+    <caex:InterfaceClass name="InterfaceClass1"/>
+    <caex:InterfaceClass name="InterfaceClass2"/>
+  </caex:InterfaceClassLib>
+</caex:CAEXFile>

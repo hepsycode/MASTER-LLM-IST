@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<caex:CAEXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:caex="http://www.dke.de/CAEX/300" fileName="SyntheticModel">
+  <caex:InstanceHierarchy name="Device">
+    <caex:InternalElement name="Sensor1" id="12345">
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_SensorData">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.0"/>
+      </caex:ExternalInterface>
+      <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_SensorConfig">
+        <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.1"/>
+      </caex:ExternalInterface>
+      <caex:Attribute name="MeasurementFrequency" value="10Hz"/>
+      <caex:InternalElement name="SubSystem">
+        <caex:Attribute name="Location" value="Engine" defaultValue="NA"/>  <caex:Attribute name="Description" value="Engine temperature sensor"/>
+        <caex:InternalElement name="MaybeSubSystem">
+          <caex:Attribute name="Type" value="Powertrain"/>
+          <caex:Attribute name="Manufacturer" value="Acme Inc."/>
+          <caex:Attribute name="MeasurementFrequency" value="100ms"/>
+          <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_PowertrainData">
+            <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.2"/>
+          </caex:ExternalInterface>
+          <caex:ExternalInterface xsi:type="caex:ExternalInterface" name="EI_PowertrainConfig">
+            <caex:baseClass href="//@interfaceClassLib.0/@interfaceClass.3"/>
+          </caex:ExternalInterface>
+          <caex:InternalLink name="Link_SubSystem_ExternalComponent_2">
+            <caex:partnerSideA refPartnerSideA="//@SubSystem.externalInterface.0"/>
+            <caex:partnerSideB refPartnerSideB="ExternalComponent_2.externalInterface.0"/>
+          </caex:InternalLink>
+          <caex:InternalLink name="Link_To_Sensor1_0">
+            <caex:partnerSideA refPartnerSideA="//@SubSystem.externalInterface.1"/>  <caex:partnerSideB refPartnerSideB="ExternalComponent_4.externalInterface.0"/>
+          </caex:InternalLink>
+        </caex:InternalElement>
+      </caex:InternalElement>
+      <caex:InternalLink name="Link_Sensor_ExternalComponent_1">
+        <caex:partnerSideA refPartnerSideA="//@Sensor1.externalInterface.0"/>
+        <caex:partnerSideB refPartnerSideB="ExternalComponent_1.externalInterface.0"/>
+      </caex:InternalLink>
+      <caex:InternalLink name="Link_Sensor_ExternalComponent_3">
+        <caex:partnerSideA refPartnerSideA="//@Sensor1.externalInterface.1"/>  <caex:partnerSideB refPartnerSideB="ExternalComponent_3.externalInterface.0"/>
+      </caex:InternalLink>
+    </caex:InternalElement>
+  </caex:InstanceHierarchy>
+  <caex:InterfaceClassLib name="SyntheticInterfaceClassLib">
+    <caex:InterfaceClass name="InterfaceClass0"/>
+    <caex:InterfaceClass name="InterfaceClass1"/>
+    <caex:InterfaceClass name="InterfaceClass2"/>
+    <caex:InterfaceClass name="InterfaceClass3"/>
+  </caex:InterfaceClassLib>
+</caex:CAEXFile>
