@@ -43,8 +43,6 @@ event BehaviorSpecification name SET
 event Port name SET
 event Channel pTo SET
 event Process processExtension SET
-event StructuredNode ports REMOVE
-event StructuredNode ports ADD
 event Port pChannels ADD
 event Channel pFrom SET
 event Channel pTo SET

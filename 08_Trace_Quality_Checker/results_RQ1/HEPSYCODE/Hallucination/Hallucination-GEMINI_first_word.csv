@@ -1,0 +1,16 @@
+filename,word_combination,occurrences_dir1,occurrences_dir2,hallucination_ratio
+DG-N,event,102,79,0.774509804
+DG-P,event,178,260,1.460674157
+FFG,event,202,168,0.831683168
+RT-A,event,74,72,0.972972973
+RT-AR,event,89,85,0.95505618
+RT-ARP,event,118,124,1.050847458
+H-E,event,197,187,0.949238579
+Sobel,event,105,56,0.533333333
+Roberts,event,105,56,0.533333333
+RASTA,event,130,94,0.723076923
+Susan,event,81,79,0.975308642
+JPEG,event,289,215,0.743944637
+JPEG-R,event,124,118,0.951612903
+FFG-Ext,event,332,115,0.346385542
+FFG-HPV,event,251,217,0.864541833

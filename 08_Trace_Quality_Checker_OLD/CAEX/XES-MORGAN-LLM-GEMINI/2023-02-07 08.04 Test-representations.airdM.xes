@@ -1,0 +1,23 @@
+event InstanceHierarchy internalElement ADD
+event InternalElement name SET
+event InternalElement externalInterface ADD
+event ExternalInterface name SET
+event ExternalInterface baseClass SET
+event InternalElement externalInterface ADD
+event ExternalInterface name SET
+event ExternalInterface baseClass SET
+event InternalElement internalLink ADD
+event InternalLink name SET
+event InternalLink partnerSideA SET  (using xpath expression)
+event InternalLink partnerSideB SET  (using xpath expression)
+event InternalElement internalLink ADD
+event InternalLink name SET
+event InternalLink partnerSideA SET  (using xpath expression)
+event InternalLink partnerSideB SET  (using xpath expression)
+event InstanceHierarchy internalElement ADD
+event InternalElement name SET
+event InternalElement attribute ADD
+event Attribute name SET
+event Attribute attributeDataType SET
+event Attribute value ADD
+event Attribute unit ADD
