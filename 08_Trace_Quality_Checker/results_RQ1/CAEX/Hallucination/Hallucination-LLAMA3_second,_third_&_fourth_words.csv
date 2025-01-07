@@ -1,215 +1,215 @@
-filename,word_combination,occurrences_dir1,occurrences_dir2,hallucination_ratio
-2023-02-07 08.04 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-07 08.04 Test-representations.airdM.xes,InternalElement internalElement ADD,1,1,1.0
-2023-02-07 08.04 Test-representations.airdM.xes,InternalElement name SET,3,3,1.0
-2023-02-07 08.04 Test-representations.airdM.xes,InternalElement externalInterface ADD,4,4,1.0
-2023-02-07 08.04 Test-representations.airdM.xes,InternalElement internalLink ADD,2,2,1.0
-2023-02-07 08.04 Test-representations.airdM.xes,InternalLink partnerSideA SET,2,2,1.0
-2023-02-07 08.04 Test-representations.airdM.xes,InternalLink partnerSideB SET,2,2,1.0
-2023-02-07 08.04 Test-representations.airdM.xes,InternalElement attribute ADD,1,1,1.0
-2023-02-07 08.04 Test-representations.airdM.xes,Attribute name SET,1,1,1.0
-2023-02-07 08.04 Test-representations.airdM.xes,Attribute value SET,1,1,1.0
-2023-02-07 08.04 Test-representations.airdM.xes,Attribute unit SET,1,1,1.0
-2023-02-07 09.06 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-07 09.06 Test-representations.airdM.xes,InternalElement iD SET,1,1,1.0
-2023-02-07 09.06 Test-representations.airdM.xes,InternalElement name SET,4,1,0.25
-2023-02-07 09.06 Test-representations.airdM.xes,InternalElement internalElement ADD,2,2,1.0
-2023-02-07 09.06 Test-representations.airdM.xes,InternalElement externalInterface ADD,4,4,1.0
-2023-02-07 09.06 Test-representations.airdM.xes,InternalElement internalLink ADD,2,4,2.0
-2023-02-07 09.06 Test-representations.airdM.xes,InternalLink partnerSideA SET,4,4,1.0
-2023-02-07 09.06 Test-representations.airdM.xes,InternalLink partnerSideB SET,4,4,1.0
-2023-02-07 09.06 Test-representations.airdM.xes,ExternalInterface name SET,4,0,0.0
-2023-02-07 09.06 Test-representations.airdM.xes,InternalElement attribute ADD,3,5,1.6666666666666667
-2023-02-07 09.06 Test-representations.airdM.xes,Attribute name SET,6,5,0.8333333333333334
-2023-02-07 09.06 Test-representations.airdM.xes,Attribute value SET,6,5,0.8333333333333334
-2023-02-07 09.06 Test-representations.airdM.xes,InternalElement attribute REMOVE,1,0,0.0
-2023-02-07 09.06 Test-representations.airdM.xes,Attribute attribute ADD,1,0,0.0
-2023-02-07 09.06 Test-representations.airdM.xes,Attribute defaultValue SET,1,1,1.0
-2023-02-07 09.06 Test-representations.airdM.xes,InternalLink refPartnerSideA SET,1,0,0.0
-2023-02-07 09.06 Test-representations.airdM.xes,InternalLink refPartnerSideB SET,1,0,0.0
-2023-02-07 09.17 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-07 09.17 Test-representations.airdM.xes,InternalElement name SET,4,2,0.5
-2023-02-07 09.17 Test-representations.airdM.xes,InternalElement internalElement ADD,1,1,1.0
-2023-02-07 09.17 Test-representations.airdM.xes,InternalElement externalInterface ADD,4,3,0.75
-2023-02-07 09.17 Test-representations.airdM.xes,InternalElement internalLink ADD,2,1,0.5
-2023-02-07 09.17 Test-representations.airdM.xes,InternalLink partnerSideA SET,2,1,0.5
-2023-02-07 09.17 Test-representations.airdM.xes,InternalLink partnerSideB SET,2,1,0.5
-2023-02-07 09.17 Test-representations.airdM.xes,ExternalInterface name SET,3,0,0.0
-2023-02-07 09.17 Test-representations.airdM.xes,InternalElement supportedRoleClass ADD,1,1,1.0
-2023-02-07 09.17 Test-representations.airdM.xes,InternalElement attribute ADD,3,3,1.0
-2023-02-07 09.17 Test-representations.airdM.xes,Attribute name SET,3,3,1.0
-2023-02-07 09.17 Test-representations.airdM.xes,Attribute value SET,3,3,1.0
-2023-02-07 09.27 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-07 09.27 Test-representations.airdM.xes,InternalElement name SET,3,1,0.3333333333333333
-2023-02-07 09.27 Test-representations.airdM.xes,InternalElement supportedRoleClass ADD,1,1,1.0
-2023-02-07 09.27 Test-representations.airdM.xes,SupportedRoleClass refRoleClassPath SET,1,1,1.0
-2023-02-07 09.27 Test-representations.airdM.xes,InternalElement externalInterface ADD,3,5,1.6666666666666667
-2023-02-07 09.27 Test-representations.airdM.xes,ExternalInterface name SET,5,0,0.0
-2023-02-07 09.27 Test-representations.airdM.xes,InternalElement internalLink ADD,2,3,1.5
-2023-02-07 09.27 Test-representations.airdM.xes,InternalLink partnerSideA SET,3,2,0.6666666666666666
-2023-02-07 09.27 Test-representations.airdM.xes,InternalLink partnerSideB SET,3,3,1.0
-2023-02-07 09.48 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-07 09.48 Test-representations.airdM.xes,InternalElement name SET,3,1,0.3333333333333333
-2023-02-07 09.48 Test-representations.airdM.xes,InternalElement internalElement ADD,1,1,1.0
-2023-02-07 09.48 Test-representations.airdM.xes,InternalElement externalInterface ADD,3,3,1.0
-2023-02-07 09.48 Test-representations.airdM.xes,InternalElement internalLink ADD,3,4,1.3333333333333333
-2023-02-07 09.48 Test-representations.airdM.xes,InternalLink partnerSideA SET,4,1,0.25
-2023-02-07 09.48 Test-representations.airdM.xes,InternalLink partnerSideB SET,4,4,1.0
-2023-02-07 09.48 Test-representations.airdM.xes,ExternalInterface name SET,2,0,0.0
-2023-02-07 10.55 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-07 10.55 Test-representations.airdM.xes,InternalElement supportedRoleClass ADD,3,3,1.0
-2023-02-07 10.55 Test-representations.airdM.xes,RoleClass roleClass ADD,1,0,0.0
-2023-02-07 10.55 Test-representations.airdM.xes,SupportedRoleClass roleClass SET,3,0,0.0
-2023-02-07 10.55 Test-representations.airdM.xes,InternalElement name SET,3,1,0.3333333333333333
-2023-02-07 10.55 Test-representations.airdM.xes,InternalElement internalElement ADD,1,1,1.0
-2023-02-07 10.55 Test-representations.airdM.xes,InternalElement externalInterface ADD,2,2,1.0
-2023-02-07 10.55 Test-representations.airdM.xes,InternalElement internalLink ADD,1,1,1.0
-2023-02-07 10.55 Test-representations.airdM.xes,InternalLink partnerSideA SET,1,1,1.0
-2023-02-07 10.55 Test-representations.airdM.xes,InternalLink partnerSideB SET,1,1,1.0
-2023-02-07 10.55 Test-representations.airdM.xes,ExternalInterface baseClass SET,1,0,0.0
-2023-02-07 10.55 Test-representations.airdM.xes,ExternalInterface name SET,2,0,0.0
-2023-02-07 11.07 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-07 11.07 Test-representations.airdM.xes,InternalElement baseSystemUnit SET,1,1,1.0
-2023-02-07 11.07 Test-representations.airdM.xes,InternalElement name SET,2,1,0.5
-2023-02-07 11.07 Test-representations.airdM.xes,InternalElement externalInterface ADD,2,2,1.0
-2023-02-07 11.07 Test-representations.airdM.xes,InternalElement internalLink ADD,1,1,1.0
-2023-02-07 11.07 Test-representations.airdM.xes,InternalLink partnerSideA SET,1,1,1.0
-2023-02-07 11.07 Test-representations.airdM.xes,InternalLink partnerSideB SET,1,1,1.0
-2023-02-07 11.07 Test-representations.airdM.xes,ExternalInterface name SET,2,0,0.0
-2023-02-07 11.07 Test-representations.airdM.xes,ExternalInterface baseClass SET,2,0,0.0
-2023-02-08 09.01 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-08 09.01 Test-representations.airdM.xes,InternalElement name SET,2,1,0.5
-2023-02-08 09.01 Test-representations.airdM.xes,InternalElement refBaseClassPath SET,1,1,1.0
-2023-02-08 09.01 Test-representations.airdM.xes,InternalElement baseSystemUnit SET,1,1,1.0
-2023-02-08 09.01 Test-representations.airdM.xes,InternalElement supportedRoleClass ADD,2,4,2.0
-2023-02-08 09.01 Test-representations.airdM.xes,RoleClass roleClass ADD,1,0,0.0
-2023-02-08 09.01 Test-representations.airdM.xes,SupportedRoleClass roleClass SET,4,1,0.25
-2023-02-08 09.01 Test-representations.airdM.xes,SupportedRoleClass refRoleClassPath SET,1,1,1.0
-2023-02-08 09.01 Test-representations.airdM.xes,InternalElement externalInterface ADD,2,2,1.0
-2023-02-08 09.01 Test-representations.airdM.xes,ExternalInterface baseClass SET,2,0,0.0
-2023-02-08 09.01 Test-representations.airdM.xes,InternalElement internalLink ADD,1,1,1.0
-2023-02-08 09.01 Test-representations.airdM.xes,InternalLink partnerSideA SET,1,1,1.0
-2023-02-08 09.01 Test-representations.airdM.xes,InternalLink partnerSideB SET,1,1,1.0
-2023-02-08 09.01 Test-representations.airdM.xes,ExternalInterface name SET,2,0,0.0
-2023-02-08 13.19 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-08 13.19 Test-representations.airdM.xes,InternalElement externalInterface ADD,2,4,2.0
-2023-02-08 13.19 Test-representations.airdM.xes,ExternalInterface baseClass SET,2,0,0.0
-2023-02-08 13.19 Test-representations.airdM.xes,InternalElement internalLink ADD,1,2,2.0
-2023-02-08 13.19 Test-representations.airdM.xes,InternalLink partnerSideA SET,1,2,2.0
-2023-02-08 13.19 Test-representations.airdM.xes,InternalLink partnerSideB SET,1,2,2.0
-2023-02-08 13.19 Test-representations.airdM.xes,InternalElement name SET,2,1,0.5
-2023-02-08 13.19 Test-representations.airdM.xes,ExternalInterface name SET,2,0,0.0
-2023-02-08 14.30 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-08 14.30 Test-representations.airdM.xes,InternalElement externalInterface ADD,2,2,1.0
-2023-02-08 14.30 Test-representations.airdM.xes,InternalElement internalLink ADD,1,1,1.0
-2023-02-08 14.30 Test-representations.airdM.xes,InternalLink partnerSideA SET,1,1,1.0
-2023-02-08 14.30 Test-representations.airdM.xes,InternalLink partnerSideB SET,1,1,1.0
-2023-02-08 14.30 Test-representations.airdM.xes,InternalElement internalElement ADD,2,2,1.0
-2023-02-08 14.30 Test-representations.airdM.xes,InternalElement attribute ADD,1,0,0.0
-2023-02-08 14.30 Test-representations.airdM.xes,InternalElement supportedRoleClass ADD,1,0,0.0
-2023-02-08 14.30 Test-representations.airdM.xes,SupportedRoleClass roleClass SET,1,0,0.0
-2023-02-08 14.30 Test-representations.airdM.xes,Attribute name SET,1,0,0.0
-2023-02-08 14.30 Test-representations.airdM.xes,Attribute value SET,1,0,0.0
-2023-02-08 14.30 Test-representations.airdM.xes,Attribute unit SET,1,0,0.0
-2023-02-08 14.30 Test-representations.airdM.xes,Attribute attributeDataType SET,1,0,0.0
-2023-02-08 14.30 Test-representations.airdM.xes,InternalElement name SET,3,3,1.0
-2023-02-09 08.10 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-09 08.10 Test-representations.airdM.xes,InternalElement name SET,4,3,0.75
-2023-02-09 08.10 Test-representations.airdM.xes,InternalElement externalInterface ADD,4,4,1.0
-2023-02-09 08.10 Test-representations.airdM.xes,InternalElement internalLink ADD,2,2,1.0
-2023-02-09 08.10 Test-representations.airdM.xes,InternalLink partnerSideA SET,2,2,1.0
-2023-02-09 08.10 Test-representations.airdM.xes,InternalLink partnerSideB SET,2,2,1.0
-2023-02-09 08.10 Test-representations.airdM.xes,InternalElement internalElement ADD,3,2,0.6666666666666666
-2023-02-09 08.10 Test-representations.airdM.xes,ExternalInterface baseClass SET,2,4,2.0
-2023-02-09 10.13 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-09 10.13 Test-representations.airdM.xes,InternalElement iD SET,1,0,0.0
-2023-02-09 10.13 Test-representations.airdM.xes,InternalElement name SET,2,3,1.5
-2023-02-09 10.13 Test-representations.airdM.xes,InternalElement baseSystemUnit SET,2,0,0.0
-2023-02-09 10.13 Test-representations.airdM.xes,InternalElement externalInterface ADD,4,4,1.0
-2023-02-09 10.13 Test-representations.airdM.xes,InternalElement internalLink ADD,3,3,1.0
-2023-02-09 10.13 Test-representations.airdM.xes,InternalLink partnerSideA SET,3,3,1.0
-2023-02-09 10.13 Test-representations.airdM.xes,InternalLink partnerSideB SET,3,3,1.0
-2023-02-09 10.13 Test-representations.airdM.xes,InternalElement internalElement ADD,3,2,0.6666666666666666
-2023-02-09 10.13 Test-representations.airdM.xes,ExternalInterface baseClass SET,3,4,1.3333333333333333
-2023-02-09 10.13 Test-representations.airdM.xes,ExternalInterface name SET,4,4,1.0
-2023-02-09 13.33 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-09 13.33 Test-representations.airdM.xes,InternalElement name SET,2,3,1.5
-2023-02-09 13.33 Test-representations.airdM.xes,InternalElement externalInterface ADD,4,3,0.75
-2023-02-09 13.33 Test-representations.airdM.xes,InternalElement internalLink ADD,2,2,1.0
-2023-02-09 13.33 Test-representations.airdM.xes,InternalLink partnerSideA SET,2,2,1.0
-2023-02-09 13.33 Test-representations.airdM.xes,InternalLink partnerSideB SET,2,2,1.0
-2023-02-09 13.33 Test-representations.airdM.xes,InternalElement internalElement ADD,2,2,1.0
-2023-02-09 13.33 Test-representations.airdM.xes,ExternalInterface refBaseClassPath SET,1,1,1.0
-2023-02-09 13.33 Test-representations.airdM.xes,InternalElement version SET,1,1,1.0
-2023-02-09 13.33 Test-representations.airdM.xes,ExternalInterface version SET,2,2,1.0
-2023-02-09 13.37 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-09 13.37 Test-representations.airdM.xes,InternalElement name SET,4,3,0.75
-2023-02-09 13.37 Test-representations.airdM.xes,InternalElement externalInterface ADD,2,2,1.0
-2023-02-09 13.37 Test-representations.airdM.xes,InternalElement internalLink ADD,1,1,1.0
-2023-02-09 13.37 Test-representations.airdM.xes,InternalLink partnerSideA SET,1,1,1.0
-2023-02-09 13.37 Test-representations.airdM.xes,InternalLink partnerSideB SET,1,1,1.0
-2023-02-09 13.37 Test-representations.airdM.xes,ExternalInterface refBaseClassPath SET,1,0,0.0
-2023-02-09 13.37 Test-representations.airdM.xes,ExternalInterface name SET,1,2,2.0
-2023-02-09 13.37 Test-representations.airdM.xes,ExternalInterface iD SET,1,0,0.0
-2023-02-09 13.37 Test-representations.airdM.xes,ExternalInterface baseClass SET,2,2,1.0
-2023-02-09 13.37 Test-representations.airdM.xes,InternalElement internalElement ADD,2,2,1.0
-2023-02-10 08.43 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,4,4.0
-2023-02-10 08.43 Test-representations.airdM.xes,InternalElement name SET,10,4,0.4
-2023-02-10 08.43 Test-representations.airdM.xes,InternalElement internalElement ADD,1,0,0.0
-2023-02-10 08.43 Test-representations.airdM.xes,InternalElement externalInterface ADD,9,8,0.8888888888888888
-2023-02-10 08.43 Test-representations.airdM.xes,InternalElement internalLink ADD,4,5,1.25
-2023-02-10 08.43 Test-representations.airdM.xes,InternalLink partnerSideA SET,10,5,0.5
-2023-02-10 08.43 Test-representations.airdM.xes,InternalLink partnerSideB SET,10,5,0.5
-2023-02-10 08.43 Test-representations.airdM.xes,InternalElement supportedRoleClass ADD,8,4,0.5
-2023-02-10 08.43 Test-representations.airdM.xes,SupportedRoleClass refRoleClassPath SET,3,0,0.0
-2023-02-10 08.43 Test-representations.airdM.xes,SupportedRoleClass roleClass SET,10,4,0.4
-2023-02-10 08.50 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-10 08.50 Test-representations.airdM.xes,InternalElement name SET,3,0,0.0
-2023-02-10 08.50 Test-representations.airdM.xes,InternalElement internalElement ADD,1,0,0.0
-2023-02-10 08.50 Test-representations.airdM.xes,InternalElement supportedRoleClass ADD,2,1,0.5
-2023-02-10 08.50 Test-representations.airdM.xes,SupportedRoleClass roleClass SET,2,2,1.0
-2023-02-10 08.50 Test-representations.airdM.xes,InternalElement iD SET,1,0,0.0
-2023-02-10 08.50 Test-representations.airdM.xes,InternalElement externalInterface ADD,3,2,0.6666666666666666
-2023-02-10 08.50 Test-representations.airdM.xes,InternalElement internalLink ADD,2,1,0.5
-2023-02-10 08.50 Test-representations.airdM.xes,InternalLink partnerSideA SET,2,2,1.0
-2023-02-10 08.50 Test-representations.airdM.xes,InternalLink partnerSideB SET,2,2,1.0
-2023-02-10 08.50 Test-representations.airdM.xes,ExternalInterface name SET,2,0,0.0
-2023-02-10 08.50 Test-representations.airdM.xes,ExternalInterface refBaseClassPath SET,1,1,1.0
-2023-02-10 08.50 Test-representations.airdM.xes,ExternalInterface baseClass SET,2,2,1.0
-2023-02-10 08.58 Test-representations.airdM.xes,InternalElement internalElement ADD,1,3,3.0
-2023-02-10 08.58 Test-representations.airdM.xes,InternalElement name SET,6,0,0.0
-2023-02-10 08.58 Test-representations.airdM.xes,InternalElement supportedRoleClass ADD,6,4,0.6666666666666666
-2023-02-10 08.58 Test-representations.airdM.xes,SupportedRoleClass roleClass SET,8,5,0.625
-2023-02-10 08.58 Test-representations.airdM.xes,InternalElement externalInterface ADD,7,6,0.8571428571428571
-2023-02-10 08.58 Test-representations.airdM.xes,InternalElement internalLink ADD,4,4,1.0
-2023-02-10 08.58 Test-representations.airdM.xes,InternalLink partnerSideA SET,6,4,0.6666666666666666
-2023-02-10 08.58 Test-representations.airdM.xes,InternalLink partnerSideB SET,6,4,0.6666666666666666
-2023-02-10 09.38 Test-representations.airdM.xes,InternalElement supportedRoleClass ADD,1,6,6.0
-2023-02-10 09.38 Test-representations.airdM.xes,InternalElement internalElement ADD,3,0,0.0
-2023-02-10 09.38 Test-representations.airdM.xes,InternalElement name SET,9,0,0.0
-2023-02-10 09.38 Test-representations.airdM.xes,InternalElement externalInterface ADD,11,9,0.8181818181818182
-2023-02-10 09.38 Test-representations.airdM.xes,InternalElement internalLink ADD,10,7,0.7
-2023-02-10 09.38 Test-representations.airdM.xes,InternalLink partnerSideA SET,15,7,0.4666666666666667
-2023-02-10 09.38 Test-representations.airdM.xes,InternalLink partnerSideB SET,15,7,0.4666666666666667
-2023-02-10 09.38 Test-representations.airdM.xes,ExternalInterface name SET,2,0,0.0
-2023-02-10 10.09 Test-representations.airdM.xes,InternalElement internalElement REMOVE,1,0,0.0
-2023-02-10 10.09 Test-representations.airdM.xes,InternalElement name SET,11,0,0.0
-2023-02-10 10.09 Test-representations.airdM.xes,InternalElement internalElement ADD,3,1,0.3333333333333333
-2023-02-10 10.09 Test-representations.airdM.xes,InternalElement externalInterface ADD,9,4,0.4444444444444444
-2023-02-10 10.09 Test-representations.airdM.xes,InternalElement internalLink ADD,7,3,0.42857142857142855
-2023-02-10 10.09 Test-representations.airdM.xes,InternalLink partnerSideA SET,9,3,0.3333333333333333
-2023-02-10 10.09 Test-representations.airdM.xes,InternalLink partnerSideB SET,9,3,0.3333333333333333
-2023-02-10 10.09 Test-representations.airdM.xes,InternalElement supportedRoleClass ADD,11,2,0.18181818181818182
-2023-02-10 10.09 Test-representations.airdM.xes,SupportedRoleClass refRoleClassPath SET,1,0,0.0
-2023-02-10 10.09 Test-representations.airdM.xes,SupportedRoleClass roleClass SET,14,2,0.14285714285714285
-2023-02-10 10.37 Test-representations.airdM.xes,InstanceHierarchy internalElement ADD,1,1,1.0
-2023-02-10 10.37 Test-representations.airdM.xes,InstanceHierarchy name SET,1,0,0.0
-2023-02-10 10.37 Test-representations.airdM.xes,InternalElement name SET,39,0,0.0
-2023-02-10 10.37 Test-representations.airdM.xes,InternalElement internalElement ADD,8,4,0.5
-2023-02-10 10.37 Test-representations.airdM.xes,InternalElement iD SET,1,0,0.0
-2023-02-10 10.37 Test-representations.airdM.xes,InternalElement externalInterface ADD,35,10,0.2857142857142857
-2023-02-10 10.37 Test-representations.airdM.xes,InternalElement internalLink ADD,22,7,0.3181818181818182
-2023-02-10 10.37 Test-representations.airdM.xes,InternalLink partnerSideA SET,36,7,0.19444444444444445
-2023-02-10 10.37 Test-representations.airdM.xes,InternalLink partnerSideB SET,36,7,0.19444444444444445
-2023-02-10 10.37 Test-representations.airdM.xes,InternalElement supportedRoleClass ADD,22,7,0.3181818181818182
-2023-02-10 10.37 Test-representations.airdM.xes,SupportedRoleClass roleClass SET,24,6,0.25
+word_combination,occurrences_dir1,occurrences_dir2,hallucination_ratio
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement internalElement ADD,1,1,1
+InternalElement name SET,3,3,1
+InternalElement externalInterface ADD,4,4,1
+InternalElement internalLink ADD,2,2,1
+InternalLink partnerSideA SET,2,2,1
+InternalLink partnerSideB SET,2,2,1
+InternalElement attribute ADD,1,1,1
+Attribute name SET,1,1,1
+Attribute value SET,1,1,1
+Attribute unit SET,1,1,1
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement iD SET,1,1,1
+InternalElement name SET,4,1,0.25
+InternalElement internalElement ADD,2,2,1
+InternalElement externalInterface ADD,4,4,1
+InternalElement internalLink ADD,2,4,2
+InternalLink partnerSideA SET,4,4,1
+InternalLink partnerSideB SET,4,4,1
+ExternalInterface name SET,4,0,0
+InternalElement attribute ADD,3,5,1.666666667
+Attribute name SET,6,5,0.833333333
+Attribute value SET,6,5,0.833333333
+InternalElement attribute REMOVE,1,0,0
+Attribute attribute ADD,1,0,0
+Attribute defaultValue SET,1,1,1
+InternalLink refPartnerSideA SET,1,0,0
+InternalLink refPartnerSideB SET,1,0,0
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement name SET,4,2,0.5
+InternalElement internalElement ADD,1,1,1
+InternalElement externalInterface ADD,4,3,0.75
+InternalElement internalLink ADD,2,1,0.5
+InternalLink partnerSideA SET,2,1,0.5
+InternalLink partnerSideB SET,2,1,0.5
+ExternalInterface name SET,3,0,0
+InternalElement supportedRoleClass ADD,1,1,1
+InternalElement attribute ADD,3,3,1
+Attribute name SET,3,3,1
+Attribute value SET,3,3,1
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement name SET,3,1,0.333333333
+InternalElement supportedRoleClass ADD,1,1,1
+SupportedRoleClass refRoleClassPath SET,1,1,1
+InternalElement externalInterface ADD,3,5,1.666666667
+ExternalInterface name SET,5,0,0
+InternalElement internalLink ADD,2,3,1.5
+InternalLink partnerSideA SET,3,2,0.666666667
+InternalLink partnerSideB SET,3,3,1
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement name SET,3,1,0.333333333
+InternalElement internalElement ADD,1,1,1
+InternalElement externalInterface ADD,3,3,1
+InternalElement internalLink ADD,3,4,1.333333333
+InternalLink partnerSideA SET,4,1,0.25
+InternalLink partnerSideB SET,4,4,1
+ExternalInterface name SET,2,0,0
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement supportedRoleClass ADD,3,3,1
+RoleClass roleClass ADD,1,0,0
+SupportedRoleClass roleClass SET,3,0,0
+InternalElement name SET,3,1,0.333333333
+InternalElement internalElement ADD,1,1,1
+InternalElement externalInterface ADD,2,2,1
+InternalElement internalLink ADD,1,1,1
+InternalLink partnerSideA SET,1,1,1
+InternalLink partnerSideB SET,1,1,1
+ExternalInterface baseClass SET,1,0,0
+ExternalInterface name SET,2,0,0
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement baseSystemUnit SET,1,1,1
+InternalElement name SET,2,1,0.5
+InternalElement externalInterface ADD,2,2,1
+InternalElement internalLink ADD,1,1,1
+InternalLink partnerSideA SET,1,1,1
+InternalLink partnerSideB SET,1,1,1
+ExternalInterface name SET,2,0,0
+ExternalInterface baseClass SET,2,0,0
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement name SET,2,1,0.5
+InternalElement refBaseClassPath SET,1,1,1
+InternalElement baseSystemUnit SET,1,1,1
+InternalElement supportedRoleClass ADD,2,4,2
+RoleClass roleClass ADD,1,0,0
+SupportedRoleClass roleClass SET,4,1,0.25
+SupportedRoleClass refRoleClassPath SET,1,1,1
+InternalElement externalInterface ADD,2,2,1
+ExternalInterface baseClass SET,2,0,0
+InternalElement internalLink ADD,1,1,1
+InternalLink partnerSideA SET,1,1,1
+InternalLink partnerSideB SET,1,1,1
+ExternalInterface name SET,2,0,0
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement externalInterface ADD,2,4,2
+ExternalInterface baseClass SET,2,0,0
+InternalElement internalLink ADD,1,2,2
+InternalLink partnerSideA SET,1,2,2
+InternalLink partnerSideB SET,1,2,2
+InternalElement name SET,2,1,0.5
+ExternalInterface name SET,2,0,0
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement externalInterface ADD,2,2,1
+InternalElement internalLink ADD,1,1,1
+InternalLink partnerSideA SET,1,1,1
+InternalLink partnerSideB SET,1,1,1
+InternalElement internalElement ADD,2,2,1
+InternalElement attribute ADD,1,0,0
+InternalElement supportedRoleClass ADD,1,0,0
+SupportedRoleClass roleClass SET,1,0,0
+Attribute name SET,1,0,0
+Attribute value SET,1,0,0
+Attribute unit SET,1,0,0
+Attribute attributeDataType SET,1,0,0
+InternalElement name SET,3,3,1
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement name SET,4,3,0.75
+InternalElement externalInterface ADD,4,4,1
+InternalElement internalLink ADD,2,2,1
+InternalLink partnerSideA SET,2,2,1
+InternalLink partnerSideB SET,2,2,1
+InternalElement internalElement ADD,3,2,0.666666667
+ExternalInterface baseClass SET,2,4,2
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement iD SET,1,0,0
+InternalElement name SET,2,3,1.5
+InternalElement baseSystemUnit SET,2,0,0
+InternalElement externalInterface ADD,4,4,1
+InternalElement internalLink ADD,3,3,1
+InternalLink partnerSideA SET,3,3,1
+InternalLink partnerSideB SET,3,3,1
+InternalElement internalElement ADD,3,2,0.666666667
+ExternalInterface baseClass SET,3,4,1.333333333
+ExternalInterface name SET,4,4,1
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement name SET,2,3,1.5
+InternalElement externalInterface ADD,4,3,0.75
+InternalElement internalLink ADD,2,2,1
+InternalLink partnerSideA SET,2,2,1
+InternalLink partnerSideB SET,2,2,1
+InternalElement internalElement ADD,2,2,1
+ExternalInterface refBaseClassPath SET,1,1,1
+InternalElement version SET,1,1,1
+ExternalInterface version SET,2,2,1
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement name SET,4,3,0.75
+InternalElement externalInterface ADD,2,2,1
+InternalElement internalLink ADD,1,1,1
+InternalLink partnerSideA SET,1,1,1
+InternalLink partnerSideB SET,1,1,1
+ExternalInterface refBaseClassPath SET,1,0,0
+ExternalInterface name SET,1,2,2
+ExternalInterface iD SET,1,0,0
+ExternalInterface baseClass SET,2,2,1
+InternalElement internalElement ADD,2,2,1
+InstanceHierarchy internalElement ADD,1,4,4
+InternalElement name SET,10,4,0.4
+InternalElement internalElement ADD,1,0,0
+InternalElement externalInterface ADD,9,8,0.888888889
+InternalElement internalLink ADD,4,5,1.25
+InternalLink partnerSideA SET,10,5,0.5
+InternalLink partnerSideB SET,10,5,0.5
+InternalElement supportedRoleClass ADD,8,4,0.5
+SupportedRoleClass refRoleClassPath SET,3,0,0
+SupportedRoleClass roleClass SET,10,4,0.4
+InstanceHierarchy internalElement ADD,1,1,1
+InternalElement name SET,3,0,0
+InternalElement internalElement ADD,1,0,0
+InternalElement supportedRoleClass ADD,2,1,0.5
+SupportedRoleClass roleClass SET,2,2,1
+InternalElement iD SET,1,0,0
+InternalElement externalInterface ADD,3,2,0.666666667
+InternalElement internalLink ADD,2,1,0.5
+InternalLink partnerSideA SET,2,2,1
+InternalLink partnerSideB SET,2,2,1
+ExternalInterface name SET,2,0,0
+ExternalInterface refBaseClassPath SET,1,1,1
+ExternalInterface baseClass SET,2,2,1
+InternalElement internalElement ADD,1,3,3
+InternalElement name SET,6,0,0
+InternalElement supportedRoleClass ADD,6,4,0.666666667
+SupportedRoleClass roleClass SET,8,5,0.625
+InternalElement externalInterface ADD,7,6,0.857142857
+InternalElement internalLink ADD,4,4,1
+InternalLink partnerSideA SET,6,4,0.666666667
+InternalLink partnerSideB SET,6,4,0.666666667
+InternalElement supportedRoleClass ADD,1,6,6
+InternalElement internalElement ADD,3,0,0
+InternalElement name SET,9,0,0
+InternalElement externalInterface ADD,11,9,0.818181818
+InternalElement internalLink ADD,10,7,0.7
+InternalLink partnerSideA SET,15,7,0.466666667
+InternalLink partnerSideB SET,15,7,0.466666667
+ExternalInterface name SET,2,0,0
+InternalElement internalElement REMOVE,1,0,0
+InternalElement name SET,11,0,0
+InternalElement internalElement ADD,3,1,0.333333333
+InternalElement externalInterface ADD,9,4,0.444444444
+InternalElement internalLink ADD,7,3,0.428571429
+InternalLink partnerSideA SET,9,3,0.333333333
+InternalLink partnerSideB SET,9,3,0.333333333
+InternalElement supportedRoleClass ADD,11,2,0.181818182
+SupportedRoleClass refRoleClassPath SET,1,0,0
+SupportedRoleClass roleClass SET,14,2,0.142857143
+InstanceHierarchy internalElement ADD,1,1,1
+InstanceHierarchy name SET,1,0,0
+InternalElement name SET,39,0,0
+InternalElement internalElement ADD,8,4,0.5
+InternalElement iD SET,1,0,0
+InternalElement externalInterface ADD,35,10,0.285714286
+InternalElement internalLink ADD,22,7,0.318181818
+InternalLink partnerSideA SET,36,7,0.194444444
+InternalLink partnerSideB SET,36,7,0.194444444
+InternalElement supportedRoleClass ADD,22,7,0.318181818
+SupportedRoleClass roleClass SET,24,6,0.25

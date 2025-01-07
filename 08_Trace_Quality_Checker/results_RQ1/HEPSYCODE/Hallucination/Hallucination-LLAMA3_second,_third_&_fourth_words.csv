@@ -1,365 +1,365 @@
-filename,word_combination,occurrences_dir1,occurrences_dir2,hallucination_ratio
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,StructuredNode name SET,2,0,0.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,StructuredNode ports ADD,2,1,0.5
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Stimulus ports ADD,1,1,1.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Port pChannels ADD,3,2,0.6666666666666666
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Channel pFrom SET,3,2,0.6666666666666666
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Channel pTo SET,4,2,0.5
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,StructuredNode processes ADD,4,3,0.75
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Process name SET,4,4,1.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Port portExtension SET,2,1,0.5
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,StructuredNode nChannels ADD,4,4,1.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Channel nFrom SET,4,4,1.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Channel nTo SET,4,4,1.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Process processExtension SET,3,2,0.6666666666666666
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,BehaviorSpecification name SET,2,0,0.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Port name SET,8,4,0.5
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Channel name SET,6,0,0.0
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Channel queueSize SET,5,3,0.6
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Channel rendezVous SET,7,4,0.5714285714285714
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Channel message SET,5,4,0.8
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Message name SET,5,4,0.8
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Message entry ADD,5,4,0.8
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Entry name SET,5,4,0.8
-2024-02-13 16.44 00%20-%20DigitalCam%20Nominal-representations.aird.xes,Entry type SET,8,4,0.5
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,Process name SET,8,8,1.0
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,StructuredNode processes ADD,7,7,1.0
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,StructuredNode nChannels ADD,14,10,0.7142857142857143
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,Channel nFrom SET,14,10,0.7142857142857143
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,Channel nTo SET,14,9,0.6428571428571429
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,Channel name SET,15,1,0.06666666666666667
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,Channel queueSize SET,14,10,0.7142857142857143
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,Channel rendezVous SET,16,10,0.625
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,Channel message SET,14,10,0.7142857142857143
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,Message name SET,14,10,0.7142857142857143
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,Message entry ADD,14,10,0.7142857142857143
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,Entry name SET,15,10,0.6666666666666666
-2024-02-13 16.59 00%20-%20DigitalCam%20Parallel-representations.aird.xes,Entry type SET,19,9,0.47368421052631576
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,StructuredNode ports ADD,3,1,0.3333333333333333
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Stimulus ports ADD,2,0,0.0
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Port pChannels ADD,3,2,0.6666666666666666
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Channel pFrom SET,3,2,0.6666666666666666
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Channel pTo SET,3,2,0.6666666666666666
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,StructuredNode processes ADD,8,1,0.125
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Process name SET,8,1,0.125
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,StructuredNode nChannels ADD,12,3,0.25
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Channel nFrom SET,12,6,0.5
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Channel nTo SET,12,6,0.5
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Port portExtension SET,2,5,2.5
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Process processExtension SET,1,0,0.0
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Port name SET,6,1,0.16666666666666666
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Channel name SET,28,5,0.17857142857142858
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Channel rendezVous SET,13,5,0.38461538461538464
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Channel queueSize SET,13,5,0.38461538461538464
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Channel message SET,12,0,0.0
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Message name SET,12,6,0.5
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Message entry ADD,12,6,0.5
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Entry name SET,13,5,0.38461538461538464
-2024-02-13 17.34 01%20-%20FIRFIRGCD-representations.aird.xes,Entry type SET,18,5,0.2777777777777778
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,StructuredNode ports ADD,2,1,0.5
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Stimulus ports ADD,1,0,0.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Port pChannels ADD,2,2,1.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Channel pFrom SET,2,2,1.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Channel pTo SET,2,2,1.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,StructuredNode processes ADD,4,1,0.25
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Process name SET,5,1,0.2
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Process processExtension SET,3,0,0.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Port portExtension SET,1,1,1.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,StructuredNode nChannels ADD,4,1,0.25
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Channel nFrom SET,4,4,1.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Channel nTo SET,4,4,1.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Port name SET,4,1,0.25
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Channel name SET,6,3,0.5
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Channel queueSize SET,3,3,1.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Channel rendezVous SET,3,3,1.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Channel message SET,3,0,0.0
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Message name SET,3,4,1.3333333333333333
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Message entry ADD,3,4,1.3333333333333333
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Entry name SET,3,4,1.3333333333333333
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,Entry type SET,5,3,0.6
-2024-02-14 14.40 02%20-%20RT%20App-representations.aird.xes,StructuredNode name SET,1,1,1.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,StructuredNode ports ADD,2,1,0.5
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Stimulus ports ADD,1,0,0.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Port pChannels ADD,2,2,1.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Channel pFrom SET,2,2,1.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Channel pTo SET,2,2,1.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,StructuredNode processes ADD,4,1,0.25
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Process name SET,4,1,0.25
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Port portExtension SET,1,1,1.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Process processExtension SET,1,0,0.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,StructuredNode nChannels ADD,5,1,0.2
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Channel nFrom SET,5,6,1.2
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Channel nTo SET,5,6,1.2
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Port name SET,5,3,0.6
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Channel name SET,7,3,0.42857142857142855
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Channel queueSize SET,4,6,1.5
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Channel rendezVous SET,5,6,1.2
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Channel message SET,5,0,0.0
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Message name SET,5,6,1.2
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Message entry ADD,5,6,1.2
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Entry name SET,5,6,1.2
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Entry type SET,7,6,0.8571428571428571
-2024-02-14 14.50 03%20-%20RT%20App%20Paper-representations.aird.xes,Channel direction SET,1,1,1.0
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Stimulus ports ADD,2,0,0.0
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,StructuredNode ports ADD,4,1,0.25
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Display ports ADD,2,0,0.0
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Port pChannels ADD,4,2,0.5
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Channel pFrom SET,4,6,1.5
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Channel pTo SET,4,6,1.5
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,StructuredNode processes ADD,6,1,0.16666666666666666
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Process name SET,6,1,0.16666666666666666
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,StructuredNode nChannels ADD,6,1,0.16666666666666666
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Channel nFrom SET,6,5,0.8333333333333334
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Channel nTo SET,6,5,0.8333333333333334
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Port portExtension SET,2,1,0.5
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Process processExtension SET,2,0,0.0
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Port name SET,8,1,0.125
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Channel name SET,11,3,0.2727272727272727
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Channel queueSize SET,6,5,0.8333333333333334
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Channel rendezVous SET,6,5,0.8333333333333334
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Channel message SET,6,0,0.0
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Message name SET,6,5,0.8333333333333334
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Message entry ADD,6,5,0.8333333333333334
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Entry name SET,6,5,0.8333333333333334
-2024-02-14 15.04 04%20-%20RT%20App%20Paper%202-representations.aird.xes,Entry type SET,6,5,0.8333333333333334
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,StructuredNode processes ADD,11,1,0.09090909090909091
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Process name SET,11,1,0.09090909090909091
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,StructuredNode ports ADD,6,1,0.16666666666666666
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Stimulus ports ADD,3,0,0.0
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Port pChannels ADD,6,2,0.3333333333333333
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Channel pFrom SET,6,8,1.3333333333333333
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Channel pTo SET,6,8,1.3333333333333333
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Port portExtension SET,3,1,0.3333333333333333
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,StructuredNode nChannels ADD,11,1,0.09090909090909091
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Channel nFrom SET,11,5,0.45454545454545453
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Channel nTo SET,11,4,0.36363636363636365
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Display ports ADD,3,0,0.0
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Process processExtension SET,3,0,0.0
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Port name SET,12,1,0.08333333333333333
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Channel name SET,17,3,0.17647058823529413
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Channel queueSize SET,10,4,0.4
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Channel rendezVous SET,10,4,0.4
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Channel message SET,10,0,0.0
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Message name SET,11,4,0.36363636363636365
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Message entry ADD,10,4,0.4
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Entry name SET,10,4,0.4
-2024-02-14 15.40 05%20-%20Hepsy%20Example-representations.aird.xes,Entry type SET,11,4,0.36363636363636365
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,StructuredNode ports ADD,2,1,0.5
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Port pChannels ADD,2,2,1.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Channel pFrom SET,2,4,2.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Channel pTo SET,2,4,2.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Stimulus ports ADD,1,0,0.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,StructuredNode processes ADD,5,1,0.2
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Process name SET,5,1,0.2
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Port portExtension SET,1,1,1.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Process processExtension SET,1,0,0.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,StructuredNode nChannels ADD,6,1,0.16666666666666666
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Channel nFrom SET,6,6,1.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Channel nTo SET,6,6,1.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Port name SET,5,1,0.2
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Channel name SET,9,3,0.3333333333333333
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Channel queueSize SET,6,5,0.8333333333333334
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Channel rendezVous SET,6,5,0.8333333333333334
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Channel message SET,6,0,0.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Message name SET,7,6,0.8571428571428571
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Message entry ADD,6,6,1.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Entry name SET,6,6,1.0
-2024-02-14 15.51 06%20-%20Sobel-representations.aird.xes,Entry type SET,9,6,0.6666666666666666
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,StructuredNode ports ADD,2,1,0.5
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Port pChannels ADD,2,2,1.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Channel pFrom SET,2,4,2.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Channel pTo SET,2,4,2.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Stimulus ports ADD,1,0,0.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,StructuredNode processes ADD,5,1,0.2
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Process name SET,5,1,0.2
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Port portExtension SET,1,1,1.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Process processExtension SET,1,0,0.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,StructuredNode nChannels ADD,6,1,0.16666666666666666
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Channel nFrom SET,6,6,1.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Channel nTo SET,6,6,1.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Port name SET,5,1,0.2
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Channel name SET,9,3,0.3333333333333333
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Channel queueSize SET,6,5,0.8333333333333334
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Channel rendezVous SET,6,5,0.8333333333333334
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Channel message SET,6,0,0.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Message name SET,7,6,0.8571428571428571
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Message entry ADD,6,6,1.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Entry name SET,6,6,1.0
-2024-02-14 15.52 07%20-%20Roberts-representations.aird.xes,Entry type SET,9,6,0.6666666666666666
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,StructuredNode ports ADD,2,1,0.5
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Stimulus ports ADD,1,0,0.0
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Port pChannels ADD,2,2,1.0
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Channel pFrom SET,2,4,2.0
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Channel pTo SET,2,4,2.0
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,StructuredNode processes ADD,7,1,0.14285714285714285
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Process name SET,7,1,0.14285714285714285
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Port portExtension SET,1,1,1.0
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,StructuredNode nChannels ADD,8,1,0.125
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Channel nFrom SET,8,6,0.75
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Channel nTo SET,8,6,0.75
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Process processExtension SET,1,0,0.0
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Port name SET,4,1,0.25
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Channel name SET,10,3,0.3
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Channel queueSize SET,8,5,0.625
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Channel rendezVous SET,8,5,0.625
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Channel message SET,8,0,0.0
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Message name SET,9,6,0.6666666666666666
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Message entry ADD,8,6,0.75
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Entry name SET,8,6,0.75
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Entry type SET,11,6,0.5454545454545454
-2024-02-14 16.25 08%20-%20RASTA-PLP-representations.aird.xes,Channel direction SET,1,3,3.0
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Stimulus ports ADD,1,0,0.0
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,StructuredNode ports ADD,2,1,0.5
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Port pChannels ADD,2,2,1.0
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Channel pFrom SET,2,4,2.0
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Channel pTo SET,2,4,2.0
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,StructuredNode processes ADD,5,1,0.2
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Process name SET,5,1,0.2
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Process processExtension SET,3,0,0.0
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Port portExtension SET,3,1,0.3333333333333333
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,StructuredNode nChannels ADD,4,1,0.25
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Channel nFrom SET,4,6,1.5
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Channel nTo SET,4,6,1.5
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Port name SET,4,1,0.25
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Channel name SET,6,3,0.5
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Channel queueSize SET,4,5,1.25
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Channel rendezVous SET,4,5,1.25
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Channel message SET,4,0,0.0
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Message name SET,4,6,1.5
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Message entry ADD,4,6,1.5
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Entry name SET,4,6,1.5
-2024-02-14 17.00 09%20-%20Susan-representations.aird.xes,Entry type SET,4,6,1.5
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,StructuredNode ports ADD,2,1,0.5
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Stimulus ports ADD,1,0,0.0
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Port pChannels ADD,2,2,1.0
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Channel pFrom SET,2,4,2.0
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Channel pTo SET,2,4,2.0
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,StructuredNode processes ADD,16,1,0.0625
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Process name SET,17,1,0.058823529411764705
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Port portExtension SET,1,1,1.0
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Process processExtension SET,1,0,0.0
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,StructuredNode nChannels ADD,20,1,0.05
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Channel nFrom SET,20,6,0.3
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Channel nTo SET,20,6,0.3
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Port name SET,4,1,0.25
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Channel name SET,22,3,0.13636363636363635
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Channel queueSize SET,18,5,0.2777777777777778
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Channel rendezVous SET,20,5,0.25
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Channel message SET,20,0,0.0
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Message name SET,23,6,0.2608695652173913
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Message entry ADD,19,6,0.3157894736842105
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Entry name SET,19,6,0.3157894736842105
-2024-02-14 17.46 10%20-%20JPEG_encoder-representations.aird.xes,Entry type SET,36,6,0.16666666666666666
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Stimulus ports ADD,1,0,0.0
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,StructuredNode ports ADD,2,1,0.5
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Port pChannels ADD,2,2,1.0
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Channel pFrom SET,2,4,2.0
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Channel pTo SET,2,4,2.0
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,StructuredNode processes ADD,6,1,0.16666666666666666
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Process name SET,6,1,0.16666666666666666
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Port portExtension SET,1,2,2.0
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,StructuredNode nChannels ADD,8,1,0.125
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Channel nFrom SET,8,10,1.25
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Channel nTo SET,8,10,1.25
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Process processExtension SET,1,1,1.0
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Port name SET,5,2,0.4
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Channel name SET,10,3,0.3
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Channel queueSize SET,8,9,1.125
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Channel rendezVous SET,8,9,1.125
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Channel message SET,8,0,0.0
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Message name SET,8,10,1.25
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Message entry ADD,8,10,1.25
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Entry name SET,8,10,1.25
-2024-02-14 17.58 11%20-%20JPEG%20Reduced-representations.aird.xes,Entry type SET,8,10,1.25
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Stimulus ports ADD,2,0,0.0
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,StructuredNode ports ADD,3,1,0.3333333333333333
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Port pChannels ADD,3,2,0.6666666666666666
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Channel pFrom SET,3,2,0.6666666666666666
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Channel pTo SET,3,2,0.6666666666666666
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Port name SET,6,0,0.0
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Channel name SET,29,0,0.0
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,StructuredNode processes ADD,14,0,0.0
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Process name SET,15,0,0.0
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Port portExtension SET,2,1,0.5
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,StructuredNode nChannels ADD,24,1,0.041666666666666664
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Channel nFrom SET,24,6,0.25
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Channel nTo SET,24,6,0.25
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Process processExtension SET,1,1,1.0
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Channel queueSize SET,23,5,0.21739130434782608
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Channel rendezVous SET,24,5,0.20833333333333334
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Channel message SET,24,0,0.0
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Message name SET,24,6,0.25
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Message entry ADD,24,6,0.25
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Entry name SET,24,6,0.25
-2024-02-14 18.17 12%20-%20FIRFIRGCD_ext-representations.aird.xes,Entry type SET,30,6,0.2
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,BehaviorSpecification nodes ADD,3,3,1.0
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Stimulus ports ADD,2,0,0.0
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,StructuredNode ports ADD,3,1,0.3333333333333333
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Display ports ADD,1,0,0.0
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Port pChannels ADD,3,2,0.6666666666666666
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Channel pFrom SET,3,10,3.3333333333333335
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Channel pTo SET,3,10,3.3333333333333335
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,StructuredNode processes ADD,13,7,0.5384615384615384
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Process name SET,13,7,0.5384615384615384
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Port portExtension SET,2,7,3.5
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,StructuredNode nChannels ADD,17,1,0.058823529411764705
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Channel nFrom SET,17,1,0.058823529411764705
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Channel nTo SET,17,1,0.058823529411764705
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Process processExtension SET,1,0,0.0
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Port name SET,6,5,0.8333333333333334
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Stimulus name SET,1,1,1.0
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Display name SET,1,1,1.0
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Channel name SET,20,3,0.15
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Channel queueSize SET,17,23,1.3529411764705883
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Channel rendezVous SET,17,23,1.3529411764705883
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Channel message SET,17,0,0.0
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Message name SET,17,4,0.23529411764705882
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Message entry ADD,17,4,0.23529411764705882
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Entry name SET,17,4,0.23529411764705882
-2024-02-14 18.30 13%20-%20FIRFIRGCD_HPV-representations.aird.xes,Entry type SET,23,4,0.17391304347826086
+word_combination,occurrences_dir1,occurrences_dir2,hallucination_ratio
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+StructuredNode name SET,2,0,0
+StructuredNode ports ADD,2,1,0.5
+Stimulus ports ADD,1,1,1
+Display ports ADD,1,0,0
+Port pChannels ADD,3,2,0.666666667
+Channel pFrom SET,3,2,0.666666667
+Channel pTo SET,4,2,0.5
+StructuredNode processes ADD,4,3,0.75
+Process name SET,4,4,1
+Port portExtension SET,2,1,0.5
+StructuredNode nChannels ADD,4,4,1
+Channel nFrom SET,4,4,1
+Channel nTo SET,4,4,1
+Process processExtension SET,3,2,0.666666667
+BehaviorSpecification name SET,2,0,0
+Port name SET,8,4,0.5
+Channel name SET,6,0,0
+Channel queueSize SET,5,3,0.6
+Channel rendezVous SET,7,4,0.571428571
+Channel message SET,5,4,0.8
+Message name SET,5,4,0.8
+Message entry ADD,5,4,0.8
+Entry name SET,5,4,0.8
+Entry type SET,8,4,0.5
+Process name SET,8,8,1
+StructuredNode processes ADD,7,7,1
+StructuredNode nChannels ADD,14,10,0.714285714
+Channel nFrom SET,14,10,0.714285714
+Channel nTo SET,14,9,0.642857143
+Channel name SET,15,1,0.066666667
+Channel queueSize SET,14,10,0.714285714
+Channel rendezVous SET,16,10,0.625
+Channel message SET,14,10,0.714285714
+Message name SET,14,10,0.714285714
+Message entry ADD,14,10,0.714285714
+Entry name SET,15,10,0.666666667
+Entry type SET,19,9,0.473684211
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+StructuredNode ports ADD,3,1,0.333333333
+Stimulus ports ADD,2,0,0
+Display ports ADD,1,0,0
+Port pChannels ADD,3,2,0.666666667
+Channel pFrom SET,3,2,0.666666667
+Channel pTo SET,3,2,0.666666667
+StructuredNode processes ADD,8,1,0.125
+Process name SET,8,1,0.125
+StructuredNode nChannels ADD,12,3,0.25
+Channel nFrom SET,12,6,0.5
+Channel nTo SET,12,6,0.5
+Port portExtension SET,2,5,2.5
+Process processExtension SET,1,0,0
+Port name SET,6,1,0.166666667
+Channel name SET,28,5,0.178571429
+Channel rendezVous SET,13,5,0.384615385
+Channel queueSize SET,13,5,0.384615385
+Channel message SET,12,0,0
+Message name SET,12,6,0.5
+Message entry ADD,12,6,0.5
+Entry name SET,13,5,0.384615385
+Entry type SET,18,5,0.277777778
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+StructuredNode ports ADD,2,1,0.5
+Display ports ADD,1,0,0
+Stimulus ports ADD,1,0,0
+Port pChannels ADD,2,2,1
+Channel pFrom SET,2,2,1
+Channel pTo SET,2,2,1
+StructuredNode processes ADD,4,1,0.25
+Process name SET,5,1,0.2
+Process processExtension SET,3,0,0
+Port portExtension SET,1,1,1
+StructuredNode nChannels ADD,4,1,0.25
+Channel nFrom SET,4,4,1
+Channel nTo SET,4,4,1
+Port name SET,4,1,0.25
+Channel name SET,6,3,0.5
+Channel queueSize SET,3,3,1
+Channel rendezVous SET,3,3,1
+Channel message SET,3,0,0
+Message name SET,3,4,1.333333333
+Message entry ADD,3,4,1.333333333
+Entry name SET,3,4,1.333333333
+Entry type SET,5,3,0.6
+StructuredNode name SET,1,1,1
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+StructuredNode ports ADD,2,1,0.5
+Stimulus ports ADD,1,0,0
+Display ports ADD,1,0,0
+Port pChannels ADD,2,2,1
+Channel pFrom SET,2,2,1
+Channel pTo SET,2,2,1
+StructuredNode processes ADD,4,1,0.25
+Process name SET,4,1,0.25
+Port portExtension SET,1,1,1
+Process processExtension SET,1,0,0
+StructuredNode nChannels ADD,5,1,0.2
+Channel nFrom SET,5,6,1.2
+Channel nTo SET,5,6,1.2
+Port name SET,5,3,0.6
+Channel name SET,7,3,0.428571429
+Channel queueSize SET,4,6,1.5
+Channel rendezVous SET,5,6,1.2
+Channel message SET,5,0,0
+Message name SET,5,6,1.2
+Message entry ADD,5,6,1.2
+Entry name SET,5,6,1.2
+Entry type SET,7,6,0.857142857
+Channel direction SET,1,1,1
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus ports ADD,2,0,0
+StructuredNode ports ADD,4,1,0.25
+Display ports ADD,2,0,0
+Port pChannels ADD,4,2,0.5
+Channel pFrom SET,4,6,1.5
+Channel pTo SET,4,6,1.5
+StructuredNode processes ADD,6,1,0.166666667
+Process name SET,6,1,0.166666667
+StructuredNode nChannels ADD,6,1,0.166666667
+Channel nFrom SET,6,5,0.833333333
+Channel nTo SET,6,5,0.833333333
+Port portExtension SET,2,1,0.5
+Process processExtension SET,2,0,0
+Port name SET,8,1,0.125
+Channel name SET,11,3,0.272727273
+Channel queueSize SET,6,5,0.833333333
+Channel rendezVous SET,6,5,0.833333333
+Channel message SET,6,0,0
+Message name SET,6,5,0.833333333
+Message entry ADD,6,5,0.833333333
+Entry name SET,6,5,0.833333333
+Entry type SET,6,5,0.833333333
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+StructuredNode processes ADD,11,1,0.090909091
+Process name SET,11,1,0.090909091
+StructuredNode ports ADD,6,1,0.166666667
+Stimulus ports ADD,3,0,0
+Port pChannels ADD,6,2,0.333333333
+Channel pFrom SET,6,8,1.333333333
+Channel pTo SET,6,8,1.333333333
+Port portExtension SET,3,1,0.333333333
+StructuredNode nChannels ADD,11,1,0.090909091
+Channel nFrom SET,11,5,0.454545455
+Channel nTo SET,11,4,0.363636364
+Display ports ADD,3,0,0
+Process processExtension SET,3,0,0
+Port name SET,12,1,0.083333333
+Channel name SET,17,3,0.176470588
+Channel queueSize SET,10,4,0.4
+Channel rendezVous SET,10,4,0.4
+Channel message SET,10,0,0
+Message name SET,11,4,0.363636364
+Message entry ADD,10,4,0.4
+Entry name SET,10,4,0.4
+Entry type SET,11,4,0.363636364
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+StructuredNode ports ADD,2,1,0.5
+Display ports ADD,1,0,0
+Port pChannels ADD,2,2,1
+Channel pFrom SET,2,4,2
+Channel pTo SET,2,4,2
+Stimulus ports ADD,1,0,0
+StructuredNode processes ADD,5,1,0.2
+Process name SET,5,1,0.2
+Port portExtension SET,1,1,1
+Process processExtension SET,1,0,0
+StructuredNode nChannels ADD,6,1,0.166666667
+Channel nFrom SET,6,6,1
+Channel nTo SET,6,6,1
+Port name SET,5,1,0.2
+Channel name SET,9,3,0.333333333
+Channel queueSize SET,6,5,0.833333333
+Channel rendezVous SET,6,5,0.833333333
+Channel message SET,6,0,0
+Message name SET,7,6,0.857142857
+Message entry ADD,6,6,1
+Entry name SET,6,6,1
+Entry type SET,9,6,0.666666667
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+StructuredNode ports ADD,2,1,0.5
+Display ports ADD,1,0,0
+Port pChannels ADD,2,2,1
+Channel pFrom SET,2,4,2
+Channel pTo SET,2,4,2
+Stimulus ports ADD,1,0,0
+StructuredNode processes ADD,5,1,0.2
+Process name SET,5,1,0.2
+Port portExtension SET,1,1,1
+Process processExtension SET,1,0,0
+StructuredNode nChannels ADD,6,1,0.166666667
+Channel nFrom SET,6,6,1
+Channel nTo SET,6,6,1
+Port name SET,5,1,0.2
+Channel name SET,9,3,0.333333333
+Channel queueSize SET,6,5,0.833333333
+Channel rendezVous SET,6,5,0.833333333
+Channel message SET,6,0,0
+Message name SET,7,6,0.857142857
+Message entry ADD,6,6,1
+Entry name SET,6,6,1
+Entry type SET,9,6,0.666666667
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+StructuredNode ports ADD,2,1,0.5
+Stimulus ports ADD,1,0,0
+Port pChannels ADD,2,2,1
+Channel pFrom SET,2,4,2
+Channel pTo SET,2,4,2
+StructuredNode processes ADD,7,1,0.142857143
+Process name SET,7,1,0.142857143
+Port portExtension SET,1,1,1
+StructuredNode nChannels ADD,8,1,0.125
+Channel nFrom SET,8,6,0.75
+Channel nTo SET,8,6,0.75
+Display ports ADD,1,0,0
+Process processExtension SET,1,0,0
+Port name SET,4,1,0.25
+Channel name SET,10,3,0.3
+Channel queueSize SET,8,5,0.625
+Channel rendezVous SET,8,5,0.625
+Channel message SET,8,0,0
+Message name SET,9,6,0.666666667
+Message entry ADD,8,6,0.75
+Entry name SET,8,6,0.75
+Entry type SET,11,6,0.545454545
+Channel direction SET,1,3,3
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus ports ADD,1,0,0
+StructuredNode ports ADD,2,1,0.5
+Display ports ADD,1,0,0
+Port pChannels ADD,2,2,1
+Channel pFrom SET,2,4,2
+Channel pTo SET,2,4,2
+StructuredNode processes ADD,5,1,0.2
+Process name SET,5,1,0.2
+Process processExtension SET,3,0,0
+Port portExtension SET,3,1,0.333333333
+StructuredNode nChannels ADD,4,1,0.25
+Channel nFrom SET,4,6,1.5
+Channel nTo SET,4,6,1.5
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+Port name SET,4,1,0.25
+Channel name SET,6,3,0.5
+Channel queueSize SET,4,5,1.25
+Channel rendezVous SET,4,5,1.25
+Channel message SET,4,0,0
+Message name SET,4,6,1.5
+Message entry ADD,4,6,1.5
+Entry name SET,4,6,1.5
+Entry type SET,4,6,1.5
+BehaviorSpecification nodes ADD,3,3,1
+StructuredNode ports ADD,2,1,0.5
+Display ports ADD,1,0,0
+Stimulus ports ADD,1,0,0
+Port pChannels ADD,2,2,1
+Channel pFrom SET,2,4,2
+Channel pTo SET,2,4,2
+StructuredNode processes ADD,16,1,0.0625
+Process name SET,17,1,0.058823529
+Port portExtension SET,1,1,1
+Process processExtension SET,1,0,0
+StructuredNode nChannels ADD,20,1,0.05
+Channel nFrom SET,20,6,0.3
+Channel nTo SET,20,6,0.3
+Port name SET,4,1,0.25
+Channel name SET,22,3,0.136363636
+Channel queueSize SET,18,5,0.277777778
+Channel rendezVous SET,20,5,0.25
+Channel message SET,20,0,0
+Message name SET,23,6,0.260869565
+Message entry ADD,19,6,0.315789474
+Entry name SET,19,6,0.315789474
+Entry type SET,36,6,0.166666667
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus ports ADD,1,0,0
+StructuredNode ports ADD,2,1,0.5
+Display ports ADD,1,0,0
+Port pChannels ADD,2,2,1
+Channel pFrom SET,2,4,2
+Channel pTo SET,2,4,2
+StructuredNode processes ADD,6,1,0.166666667
+Process name SET,6,1,0.166666667
+Port portExtension SET,1,2,2
+StructuredNode nChannels ADD,8,1,0.125
+Channel nFrom SET,8,10,1.25
+Channel nTo SET,8,10,1.25
+Process processExtension SET,1,1,1
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+Port name SET,5,2,0.4
+Channel name SET,10,3,0.3
+Channel queueSize SET,8,9,1.125
+Channel rendezVous SET,8,9,1.125
+Channel message SET,8,0,0
+Message name SET,8,10,1.25
+Message entry ADD,8,10,1.25
+Entry name SET,8,10,1.25
+Entry type SET,8,10,1.25
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus ports ADD,2,0,0
+StructuredNode ports ADD,3,1,0.333333333
+Display ports ADD,1,0,0
+Port pChannels ADD,3,2,0.666666667
+Channel pFrom SET,3,2,0.666666667
+Channel pTo SET,3,2,0.666666667
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+Port name SET,6,0,0
+Channel name SET,29,0,0
+StructuredNode processes ADD,14,0,0
+Process name SET,15,0,0
+Port portExtension SET,2,1,0.5
+StructuredNode nChannels ADD,24,1,0.041666667
+Channel nFrom SET,24,6,0.25
+Channel nTo SET,24,6,0.25
+Process processExtension SET,1,1,1
+Channel queueSize SET,23,5,0.217391304
+Channel rendezVous SET,24,5,0.208333333
+Channel message SET,24,0,0
+Message name SET,24,6,0.25
+Message entry ADD,24,6,0.25
+Entry name SET,24,6,0.25
+Entry type SET,30,6,0.2
+BehaviorSpecification nodes ADD,3,3,1
+Stimulus ports ADD,2,0,0
+StructuredNode ports ADD,3,1,0.333333333
+Display ports ADD,1,0,0
+Port pChannels ADD,3,2,0.666666667
+Channel pFrom SET,3,10,3.333333333
+Channel pTo SET,3,10,3.333333333
+StructuredNode processes ADD,13,7,0.538461538
+Process name SET,13,7,0.538461538
+Port portExtension SET,2,7,3.5
+StructuredNode nChannels ADD,17,1,0.058823529
+Channel nFrom SET,17,1,0.058823529
+Channel nTo SET,17,1,0.058823529
+Process processExtension SET,1,0,0
+Port name SET,6,5,0.833333333
+Stimulus name SET,1,1,1
+Display name SET,1,1,1
+Channel name SET,20,3,0.15
+Channel queueSize SET,17,23,1.352941176
+Channel rendezVous SET,17,23,1.352941176
+Channel message SET,17,0,0
+Message name SET,17,4,0.235294118
+Message entry ADD,17,4,0.235294118
+Entry name SET,17,4,0.235294118
+Entry type SET,23,4,0.173913043
