@@ -44,7 +44,7 @@ We currently support:
        - claudio.disipio@univaq.it
     - Riccardo Rubei
        - riccardo.rubei@univaq.it
-    - Luce Berardinelli
+    - Luca Berardinelli
        - luca.berardinelli@jku.at
  2. Issues on GitHub
 
