@@ -61,7 +61,7 @@ If you use MASTER-LLM in your research, please cite:
         isbn = {TODO},
         publisher = {TODO},
         address = {TODO},
-        url = {[https://doi.org/10.1016/j.infsof.2025.107806](https://doi.org/10.1016/j.infsof.2025.107806)},
+        url = {https://doi.org/10.1016/j.infsof.2025.107806},
         doi = {10.1016/j.infsof.2025.107806},
         booktitle = {TODO},
         pages = {TODO},
