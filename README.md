@@ -55,14 +55,14 @@ Research publications are available at https://hepsycode.github.io/
 If you use MASTER-LLM in your research, please cite:
 ```
 @article{MUTTILLO2025107806,
-	title        = {Leveraging synthetic trace generation of modeling operations for intelligent modeling assistants using large language models},
-	author       = {Vittoriano Muttillo and Claudio Di Sipio and Riccardo Rubei and Luca Berardinelli},
-	year         = 2025,
-	journal      = {Information and Software Technology},
-	volume       = 186,
-	pages        = 107806,
-	doi          = {https://doi.org/10.1016/j.infsof.2025.107806},
-	issn         = {0950-5849},
-	url          = {https://www.sciencedirect.com/science/article/pii/S0950584925001454}
+  title        = {Leveraging synthetic trace generation of modeling operations for intelligent modeling assistants using large language models},
+  author       = {Vittoriano Muttillo and Claudio {Di Sipio} and Riccardo Rubei and Luca Berardinelli},
+  year         = 2025,
+  journal      = {Information and Software Technology},
+  volume       = 186,
+  pages        = 107806,
+  doi          = {https://doi.org/10.1016/j.infsof.2025.107806},
+  issn         = {0950-5849},
+  url          = {https://www.sciencedirect.com/science/article/pii/S0950584925001454}
 }
 ```
