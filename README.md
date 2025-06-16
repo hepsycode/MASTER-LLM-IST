@@ -37,7 +37,7 @@ We currently support:
 
  1. Email: 
     - Vittoriano Muttillo:
-       - vittoriano.muttillo@guest.univaq.it,
+       - vittoriano.muttillo@guest.univaq.it
        - vmuttillo@unite.it
        - vittoriano.muttillo@gmail.com
     - Claudio Di Sipio
