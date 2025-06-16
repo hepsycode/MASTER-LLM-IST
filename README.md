@@ -54,20 +54,15 @@ Research publications are available at https://hepsycode.github.io/
 ## How to Cite?
 If you use MASTER-LLM in your research, please cite:
 ```
-@inproceedings{10.1145/3427921.3450258,
-        author = {Muttillo, Vittoriano and Di Sipio, Claudio and Rubei, Riccardo and Berardinelli, Luca},
-        title = {Leveraging Synthetic Trace Generation of Modeling Operations for Intelligent Modeling Assistants Using Large Language Models},
-        year = {2025},
-        isbn = {TODO},
-        publisher = {TODO},
-        address = {TODO},
-        url = {https://doi.org/10.1016/j.infsof.2025.107806},
-        doi = {10.1016/j.infsof.2025.107806},
-        booktitle = {TODO},
-        pages = {TODO},
-        numpages = {8},
-        keywords = {TODO},
-        location = {TODO},
-        series = {TODO}
+@article{MUTTILLO2025107806,
+	title        = {Leveraging synthetic trace generation of modeling operations for intelligent modeling assistants using large language models},
+	author       = {Vittoriano Muttillo and Claudio Di Sipio and Riccardo Rubei and Luca Berardinelli},
+	year         = 2025,
+	journal      = {Information and Software Technology},
+	volume       = 186,
+	pages        = 107806,
+	doi          = {https://doi.org/10.1016/j.infsof.2025.107806},
+	issn         = {0950-5849},
+	url          = {https://www.sciencedirect.com/science/article/pii/S0950584925001454}
 }
 ```
